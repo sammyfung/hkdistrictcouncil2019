@@ -1,0 +1,6 @@
+# hkdistrictcouncil2019
+Hong Kong District Council 2019 Data and Web Scraper
+
+The project includes a web scraper to consolidate the data of Hong Kong District Council 2019 to a single CSV file from several files.
+
+[Sample Data](/)
