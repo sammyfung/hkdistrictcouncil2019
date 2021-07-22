@@ -30,6 +30,10 @@ Note (d): All inactive DC members are also from pro-Democracy camp.
 
 Above sample data are for reference only, as of 2021/7/22.
 
+## Contribute
+
+Please [create issues](https://github.com/sammyfung/hkdistrictcouncil2019/issues) on GitHub.
+
 ## LICENSE
 
 Apache License 2.0 excluding the sample data.
