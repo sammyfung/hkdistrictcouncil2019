@@ -33,6 +33,10 @@ Above sample data are for reference only, as of 2021/7/22, please contribute if 
 
 Please [create issues](https://github.com/sammyfung/hkdistrictcouncil2019/issues) on GitHub.
 
+## Sponsor open source projects
+
+Please sponsor my open source projects via [GitHub Sponsor](https://github.com/sponsors/sammyfung), [Patreon (Chinese)](https://www.patreon.com/sammyfung) and [PayPal](https://sammy.hk/paypal/). Or contact me on my [Twitter](https://twitter.com/sammyfung) DM.
+
 ## LICENSE
 
 Apache License 2.0 excluding the sample data.
