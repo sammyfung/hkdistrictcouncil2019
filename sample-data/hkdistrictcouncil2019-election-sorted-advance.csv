@@ -1,0 +1,1091 @@
+"candidate_code","district_code","district_c","district_e","candidate_num","name_c","name_e","alias_c","alias_e","affiliation_c","affiliation_e","count","win","camp","active","date_of_resignation","status_c","status_e"
+"A01-1","A01","中環","CHUNG WAN",1,"許智峯","HUI CHI FUNG",,,"民主黨","The Democratic Party",1618,"True","Pro-Democracy","Inactive",,"流亡","Exile"
+"A01-2","A01","中環","CHUNG WAN",2,"黃鐘蔚","WONG CHUNG WAI",,,,,1319,"False",,,,,
+"A02-1","A02","半山東","MID LEVELS EAST",1,"莫淦森","MOK KAM SUM",,"SAMUEL",,,1993,"False",,,,,
+"A02-2","A02","半山東","MID LEVELS EAST",2,"吳兆康","NG SIU HONG",,,"民主黨","The Democratic Party",2672,"True","Pro-Democracy","Inactive","2021/4/29","辭職","Resign"
+"A03-1","A03","衛城","CASTLE ROAD",1,"鄭麗琼","CHENG LAI KING",,,"民主黨","The Democratic Party",2669,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"A03-2","A03","衛城","CASTLE ROAD",2,"馮家亮","FUNG KAR LEUNG KARL",,,"自由黨","Liberal Party",2559,"False",,,,,
+"A04-1","A04","山頂","PEAK",1,"賣間囯信","URUMA KUNINOBU",,"THOMAS","2047香港監察","With Chinese version only",1106,"False",,,,,
+"A04-2","A04","山頂","PEAK",2,"楊哲安","YOUNG CHIT ON JEREMY",,,"自由黨 ","Liberal Party ",2422,"True","Pro-Beijing","Active",,,
+"A05-1","A05","大學","UNIVERSITY",1,"歐頌賢","AU CHUNG YIN",,,"獨立候選人","INDEPENDENT CANDIDATE",127,"False",,,,,
+"A05-2","A05","大學","UNIVERSITY",2,"任嘉兒","YAM KA YI",,,,,3135,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"A05-3","A05","大學","UNIVERSITY",3,"陳㨗貴","CHAN CHIT KWAI",,,,,2843,"False",,,,,
+"A06-1","A06","觀龍","KWUN LUNG",1,"楊開永","YEUNG HOI WING",,,,,2970,"False",,,,,
+"A06-2","A06","觀龍","KWUN LUNG",2,"周世傑","CHOW SAI KIT",,,,,138,"False",,,,,
+"A06-3","A06","觀龍","KWUN LUNG",3,"梁晃維","LEUNG FONG WAI FERGUS",,,"獨立","Independent",3195,"True","Pro-Democracy","Inactive","2021/4/30","還押","Custody"
+"A07-1","A07","堅摩","KENNEDY TOWN & MOUNT DAVIS",1,"黃健菁","WONG KIN CHING",,"CHERRY",,,3312,"True","Pro-Democracy","Inactive","2021/6/1","辭職","Resign"
+"A07-2","A07","堅摩","KENNEDY TOWN & MOUNT DAVIS",2,"林雪迎","LAM SUET YING",,"MAVIS",,,53,"False",,,,,
+"A07-3","A07","堅摩","KENNEDY TOWN & MOUNT DAVIS",3,"陳學鋒","CHAN HOK FUNG",,,,,2206,"False",,,,,
+"A08-1","A08","西環","SAI WAN",1,"張國鈞","CHEUNG KWOK KWAN",,,,,2494,"False",,,,,
+"A08-2","A08","西環","SAI WAN",2,"黃美𡖖","WONG MI HING SHIRLEY",,,,,40,"False",,,,,
+"A08-3","A08","西環","SAI WAN",3,"彭家浩","PANG KA HO",,,,,3289,"True","Pro-Democracy","Active",,,
+"A09-1","A09","寶翠","BELCHER",1,"楊浩然","YEUNG SUI YIN",,"VICTOR","民主黨","The Democratic Party",4002,"True","Pro-Democracy","Active",,,
+"A09-2","A09","寶翠","BELCHER",2,"馮敬彥","FUNG KING YIN",,,,,76,"False",,,,,
+"A09-3","A09","寶翠","BELCHER",3,"葉永成","YIP WING SHING",,,,,3521,"False",,,,,
+"A10-1","A10","石塘咀","SHEK TONG TSUI",1,"陳財喜","CHAN CHOI HI",,,,,2487,"False",,,,,
+"A10-2","A10","石塘咀","SHEK TONG TSUI",2,"葉錦龍","YIP KAM LUNG SAM",,,"獨立民主派","Indep. Pro-Democracy",3073,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"A11-1","A11","西營盤","SAI YING PUN",1,"黃永志","WONG WENG CHI",,,"民主派區選聯盟","Democratic Coalition for DC Election",2734,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"A11-2","A11","西營盤","SAI YING PUN",2,"劉天正","LAU TIN CHING",,"TIMOTHY","民建聯","DAB",2202,"False",,,,,
+"A12-1","A12","上環","SHEUNG WAN",1,"呂鴻賓","LUI HUNG PAN",,,"工聯會","FTU",1900,"False",,,,,
+"A12-2","A12","上環","SHEUNG WAN",2,"甘乃威","KAM NAI WAI",,,,,2781,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"A13-1","A13","東華","TUNG WAH",1,"張嘉恩","CHEUNG KA YAN",,,,,1547,"False",,,,,
+"A13-2","A13","東華","TUNG WAH",2,"伍凱欣","NG HOI YAN BONNIE",,,"民主黨","The Democratic Party",2403,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"A14-1","A14","正街","CENTRE STREET",1,"張啟昕","CHEUNG KAI YIN",,,"民主黨","democratic party",2909,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"A14-2","A14","正街","CENTRE STREET",2,"李志恒","LEE CHI HANG SIDNEY",,,,,2030,"False",,,,,
+"A15-1","A15","水街","WATER STREET",1,"楊學明","YEUNG HOK MING",,,,,2095,"False",,,,,
+"A15-2","A15","水街","WATER STREET",2,"何致宏","HO CHI WANG",,,"民主派","Pro-democracy Camp",3093,"True","Pro-Democracy","Inactive","2021/5/26","辭職","Resign"
+"B01-1","B01","軒尼詩","HENNESSY",1,"顧國慧","KOO KWOK WAI SABINA",,,,,1373,"True","Pro-Democracy","Active",,,
+"B01-2","B01","軒尼詩","HENNESSY",2,"夏希諾","HA HEI LOK",,,,,845,"False",,,,,
+"B01-3","B01","軒尼詩","HENNESSY",3,"黃守東","WONG SAU TUNG",,,"獨立","Independent ",1033,"False",,,,,
+"B02-1","B02","愛群","OI KWAN",1,"羅偉珊","LAW WAI SHAN",,,"獨立候選人","INDEPENDENT CANDIDATE",2363,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"B02-2","B02","愛群","OI KWAN",2,"穆家駿","MUK KA CHUN",,,,,1750,"False",,,,,
+"B03-1","B03","鵝頸","CANAL ROAD",1,"麥景星","MAK KING SING",,,,,1891,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"B03-2","B03","鵝頸","CANAL ROAD",2,"鍾嘉敏","CHUNG KA MAN JACQUELINE",,,,,1383,"False",,,,,
+"B04-1","B04","銅鑼灣","CAUSEWAY BAY",1,"伍婉婷","NG YUEN TING YOLANDA",,,"獨立","Independent",1572,"False",,,,,
+"B04-2","B04","銅鑼灣","CAUSEWAY BAY",2,"邱汶珊","YAU MAN SHAN CATHY",,,"獨立候選人","Independent Candidate",1918,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"B05-1","B05","維園","VICTORIA PARK",1,"李永財","LI WING CHOI",,,,,2502,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"B05-2","B05","維園","VICTORIA PARK",2,"周潔冰","CHOW KIT BING JENNIFER",,,,,2125,"False",,,,,
+"B06-1","B06","天后","TIN HAU",1,"陳鈺琳","CHAN YUK LAM",,,"獨立候選人","Independent Candidate",2899,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"B06-2","B06","天后","TIN HAU",2,"李文龍","LEE MAN LUNG JOEY",,,,,2623,"False",,,,,
+"B07-1","B07","大坑","TAI HANG",1,"廖添誠","LIU TIN SHING",,,,,1433,"False",,,,,
+"B07-2","B07","大坑","TAI HANG",2,"楊雪盈","YEUNG SUET YING CLARISSE",,,"獨立候選人","Independent Candidate",2340,"True","Pro-Democracy","Active",,,
+"B08-1","B08","渣甸山","JARDINE'S LOOKOUT",1,"張朝敦","CHEUNG CHARLTON",,,"獨立候選人","Independent Candidate",1355,"False",,,,,
+"B08-2","B08","渣甸山","JARDINE'S LOOKOUT",2,"林偉文","LAM WAI MAN WIND",,,,,2570,"True","Pro-Beijing","Active",,,
+"B08-3","B08","渣甸山","JARDINE'S LOOKOUT",3,"謝永齡","TSE WING LING JOHN",,,,,464,"False",,,,,
+"B09-1","B09","樂活","BROADWOOD",1,"謝偉俊","TSE WAI CHUN PAUL",,,"獨立","INDEPENDENT",2121,"True","Pro-Beijing","Active",,,
+"B09-2","B09","樂活","BROADWOOD",2,"楊子雋","YEUNG TSZ CHUN",,,,,1887,"False",,,,,
+"B10-1","B10","跑馬地","HAPPY VALLEY",1,"張嘉莉","CHEUNG CLARA",,,,,1954,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"B10-2","B10","跑馬地","HAPPY VALLEY",2,"陳詠霞","CHAN WING HA",,"VIVIAN","2047香港監察","2047HK MONITOR",207,"False",,,,,
+"B10-3","B10","跑馬地","HAPPY VALLEY",3,"吳澤森","NG CHAK SUM SAM",,,,,1805,"False",,,,,
+"B11-1","B11","司徒拔道","STUBBS ROAD",1,"黃宏泰","WONG WANG TAI",,,,,1908,"True","Pro-Beijing","Active",,,
+"B11-2","B11","司徒拔道","STUBBS ROAD",2,"周錦基","CHOW KAM KEI FRANKIE",,,"獨立候選人","Independent Candidate",1591,"False",,,,,
+"B12-1","B12","修頓","SOUTHORN",1,"陳錦成","CHAN KAM SHING",,"CHRIS","獨立候選人","Independent Candidate",1652,"False",,,,,
+"B12-2","B12","修頓","SOUTHORN",2,"李碧儀","LEE PIK YEE",,,,,1790,"True","Pro-Beijing","Active",,,
+"B13-1","B13","大佛口","TAI FAT HAU",1,"李均頤","LEE KWUN YEE KENNY",,,,,1625,"False",,,,,
+"B13-2","B13","大佛口","TAI FAT HAU",2,"梁柏堅","LEUNG PAK KIN",,,,,1723,"True","Pro-Democracy","Active",,,
+"C01-1","C01","太古城西","TAI KOO SHING WEST",1,"丁煌","TING WONG KACEE",,,"香港經濟民生聨盟","Business and Professionals Alliance for Hong Kong",2593,"False",,,,,
+"C01-2","C01","太古城西","TAI KOO SHING WEST",2,"趙家賢","CHIU KA YIN ANDREW",,"DR ANDREW CHIU","民主動力、民主黨","Power for Democracy, The Democratic Party",4390,"True","Pro-Democracy","Inactive","2021/7/9","還押","Custody"
+"C02-1","C02","太古城東","TAI KOO SHING EAST",1,"郭浩景","KWOK HO KING CALVIN","博士","DR. KWOK","新民黨","New People's Party",3106,"False",,,,,
+"C02-2","C02","太古城東","TAI KOO SHING EAST",2,"王振星","WONG CHUN SING PATRICK",,,"民主派","Democrat",4848,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"C03-1","C03","鯉景灣","LEI KING WAN",1,"張文嵩","CHEUNG MAN SUNG",,,,,3098,"False",,,,,
+"C03-2","C03","鯉景灣","LEI KING WAN",2,"韋少力","WEI SIU LIK ALICE",,,"民主派區選聯盟","Democratic Coalition for DC Election",4144,"True","Pro-Democracy","Active",,,
+"C04-1","C04","西灣河","SAI WAN HO",1,"麥德正","MAK TAK CHING",,,"工黨","Labour Party",4323,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"C04-2","C04","西灣河","SAI WAN HO",2,"林梓鴻","LAM TSZ HUNG",,,,,2530,"False",,,,,
+"C05-1","C05","愛秩序灣","ALDRICH BAY",1,"郭詠健","KWOK WING KIN",,,"民主建港協進聯盟","Democratic Alliance for the Better Ment and Progress of Hong Kong",3771,"False",,,,,
+"C05-2","C05","愛秩序灣","ALDRICH BAY",2,"袁達進","YUEN TAT CHUN",,"SIMON","保民聯","ASEA",86,"False",,,,,
+"C05-3","C05","愛秩序灣","ALDRICH BAY",3,"蘇逸恒","SO YAT HANG",,,"民主黨","The Democratic Party",4600,"True","Pro-Democracy","Active",,,
+"C06-1","C06","筲箕灣","SHAUKEIWAN",1,"林心亷","LAM SUM LIM",,,"民建聯","DAB",1903,"False",,,,,
+"C06-2","C06","筲箕灣","SHAUKEIWAN",2,"梁詠詩","LEUNG WING SZE",,,"沒有","NIL",3215,"True","Pro-Democracy","Active",,,
+"C07-1","C07","阿公岩","A KUNG NGAM",1,"郭志聰","KWOK CHI CHUNG",,,"民主動力","Power for Democracy",4204,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"C07-2","C07","阿公岩","A KUNG NGAM",2,"林其東","LAM KEI TUNG GEORGE",,,,,3174,"False",,,,,
+"C07-3","C07","阿公岩","A KUNG NGAM",3,"陳溢謙","CHAN EUGENE YAT HIM",,,,,597,"False",,,,,
+"C08-1","C08","杏花邨","HENG FA CHUEN",1,"黃宜","WONG YI CHRISTINE",,,"獨立無黨派","Independent Candidate",5323,"True","Pro-Democracy","Inactive","2021/3/31","辭職","Resign"
+"C08-2","C08","杏花邨","HENG FA CHUEN",2,"何毅淦","HO NGAI KAM STANLEY",,,,,4114,"False",,,,,
+"C09-1","C09","翠灣","TSUI WAN",1,"劉淑燕","LAU SUK YIN",,,"民建聯  / 工聯會","DAB  / FTU",2847,"False",,,,,
+"C09-2","C09","翠灣","TSUI WAN",2,"古桂耀","KU KWAI YIU",,,,,3569,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"C10-1","C10","欣藍","YAN LAM",1,"李鳳琼","ISHIGAMI LEE FUNG KING ALICE",,,"民主動力","Power for Democracy",3982,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"C10-2","C10","欣藍","YAN LAM",2,"黃健興","WONG KIN HING",,,,,3543,"False",,,,,
+"C10-3","C10","欣藍","YAN LAM",3,"陳儀真","TAN YI CHUN WINDY",,,,,106,"False",,,,,
+"C11-1","C11","小西灣","SIU SAI WAN",1,"朱日安","CHU YAT ON",,,,,288,"False",,,,,
+"C11-2","C11","小西灣","SIU SAI WAN",2,"陳榮泰","CHAN WING TAI",,,"民主動力","Power for Democracy",3212,"True","Pro-Democracy","Active",,,
+"C11-3","C11","小西灣","SIU SAI WAN",3,"李樂昕","LI LOK YAN",,,"工聯會、民建聯","FTU & DAB",2485,"False",,,,,
+"C12-1","C12","景怡","KING YEE",1,"楊漢成","YEUNG HON SING",,,,,623,"False",,,,,
+"C12-2","C12","景怡","KING YEE",2,"梁國鴻","LEUNG KWOK HUNG DAVID",,,,,3079,"False",,,,,
+"C12-3","C12","景怡","KING YEE",3,"曾因瑩","TSANG YAN YING",,,"獨立","Independent",4936,"True","Pro-Democracy","Inactive","2021/6/1","辭職","Resign"
+"C13-1","C13","環翠","WAN TSUI",1,"吳卓燁","NG CHEUK IP",,,"獨立民主派","With Chinese version only",3412,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"C13-2","C13","環翠","WAN TSUI",2,"王鑑賢","WONG KAM YIN","肥王",,,,39,"False",,,,,
+"C13-3","C13","環翠","WAN TSUI",3,"龔栢祥","KUNG PAK CHEUNG",,,"民建聯","DAB ",2866,"False",,,,,
+"C14-1","C14","翡翠","FEI TSUI",1,"黎志強","LAI CHI KEONG JOSEPH",,,"公民黨","Civic Party",3591,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"C14-2","C14","翡翠","FEI TSUI",2,"陳凱榮","CHAN HOI WING",,,"民建聯 工聯會","DAB FTU",2742,"False",,,,,
+"C15-1","C15","柏架山","MOUNT PARKER",1,"賴翊銘","LAI YIK MING",,,"獨立民主派","Independent Democrat",2491,"False",,,,,
+"C15-2","C15","柏架山","MOUNT PARKER",2,"李清霞","LEE CHING HAR",,"ANNIE","民建聯","DAB",2664,"True","Pro-Beijing","Active",,,
+"C16-1","C16","寶馬山","BRAEMAR HILL",1,"黎學謙","LAI HOK HIM MATTHEW",,,"獨立民主派","Independent democrat",2522,"False",,,,,
+"C16-2","C16","寶馬山","BRAEMAR HILL",2,"阮建中","YUEN KIN CHUNG KENNY",,,"自由黨","Liberal Party",3111,"True","Pro-Beijing","Active",,,
+"C17-1","C17","炮台山","FORTRESS HILL",1,"羅榮焜","LO WING KWAN FRANKIE","羅山","LO SHAN",,,2634,"False",,,,,
+"C17-2","C17","炮台山","FORTRESS HILL",2,"陳嘉佑","CHAN JASON KA YAU",,,,,3596,"True","Pro-Democracy","Inactive","2021/5/31","辭職","Resign"
+"C18-1","C18","城市花園","CITY GARDEN",1,"許清安","HUI CHING ON",,,,,2557,"False",,,,,
+"C18-2","C18","城市花園","CITY GARDEN",2,"仇栩欣","CHAU HUI YAN",,,"獨立","Independent",2806,"True","Pro-Democracy","Active",,,
+"C18-3","C18","城市花園","CITY GARDEN",3,"樊熙泰","FAN HAI TAI",,"RICKY",,,591,"False",,,,,
+"C19-1","C19","和富","PROVIDENT",1,"郭偉强","KWOK WAI KEUNG",,,,,3229,"True","Pro-Beijing","Active",,,
+"C19-2","C19","和富","PROVIDENT",2,"陳嘉陽","CHAN DUNCANN",,,,,3181,"False",,,,,
+"C19-3","C19","和富","PROVIDENT",3,"林斯嵐","LAM SZE NAM ANDREW",,,,,90,"False",,,,,
+"C20-1","C20","堡壘","FORT STREET",1,"傅佳琳","FU KAI LAM",,"KARRINE","獨立民主派","Independent Democrat",2464,"True","Pro-Democracy","Inactive","2021/5/31","辭職","Resign"
+"C20-2","C20","堡壘","FORT STREET",2,"洪連杉","HUNG LIN CHAM",,,"民建聯","DAB",2405,"False",,,,,
+"C21-1","C21","錦屏","KAM PING",1,"洪志傑","HUNG CHI KIT",,,"民建聯","DAB",3027,"False",,,,,
+"C21-2","C21","錦屏","KAM PING",2,"李予信","LEE YUE SHUN","阿信",,,,3113,"True","Pro-Democracy","Active",,,
+"C22-1","C22","丹拿","TANNER",1,"曾卓兒","TSANG CHEUK YI",,,"自由黨","Liberal Party",2899,"False",,,,,
+"C22-2","C22","丹拿","TANNER",2,"鄭達鴻","CHENG TAT HUNG",,,"公民黨","Civic Party",3947,"True","Pro-Democracy","Inactive","2021/5/11","辭職","Resign"
+"C23-1","C23","健康村","HEALTHY VILLAGE",1,"鄭志成","CHENG CHI SING",,,"民建聯","DAB",2609,"False",,,,,
+"C23-2","C23","健康村","HEALTHY VILLAGE",2,"裴自立","PUI JAMES CHI LAP",,,"獨立民主派","Pro Democracy Camp",2971,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"C24-1","C24","鰂魚涌","QUARRY BAY",1,"丁江浩","TING KONG HO EDDIE",,,"民建聯","DAB",2176,"False",,,,,
+"C24-2","C24","鰂魚涌","QUARRY BAY",2,"陳寶琼","CHAN PO KING",,,"民主派區選聯盟","Democratic Coalition for DC Election",2700,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"C25-1","C25","南豐","NAM FUNG",1,"王詩展","WONG SZE CHIN RICKY",,,"香港經濟民生聯盟","Business and Professionals Alliance for Hong Kong",2275,"False",,,,,
+"C25-2","C25","南豐","NAM FUNG",2,"張國昌","CHEUNG KWOK CHEONG",,,,,4315,"True","Pro-Democracy","Inactive","2021/7/15","辭職","Resign"
+"C26-1","C26","康怡","KORNHILL",1,"魏志豪","NGAI CHI HO",,"DEREK","公民黨","CIVIC PARTY  ",4127,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"C26-2","C26","康怡","KORNHILL",2,"周卓然","CHAU CHEUK YIN",,"NATHAN",,,2854,"False",,,,,
+"C27-1","C27","康山","KORNHILL GARDEN",1,"劉聖雪","LAU DANA SING SHE",,,,,2564,"False",,,,,
+"C27-2","C27","康山","KORNHILL GARDEN",2,"梁兆新","LEUNG SIU SUN",,,,,3727,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"C28-1","C28","興東","HING TUNG",1,"許林慶","HUI LAM HING",,,"工聯會","FTU",3932,"False",,,,,
+"C28-2","C28","興東","HING TUNG",2,"張振傑","CHEUNG CHUN KIT",,,"興東東熹環境關注組","HTTH Env. Concern Group",5389,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"C29-1","C29","下耀東","LOWER YIU TUNG",1,"何偉倫","HO WAI LUN",,,"工黨","Labour Party",3771,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"C29-2","C29","下耀東","LOWER YIU TUNG",2,"王志鍾","WONG CHI CHUNG",,,"民主建港協進聯盟","Democratic Alliance for the Better Ment and Progress of Hong Kong",2457,"False",,,,,
+"C30-1","C30","上耀東","UPPER YIU TUNG",1,"吳清清","NG CHING CHING",,,,,3124,"False",,,,,
+"C30-2","C30","上耀東","UPPER YIU TUNG",2,"周卓奇","CHOW CHEUK KI",,,"民主黨","The Democratic Party",3492,"True","Pro-Democracy","Active",,,
+"C31-1","C31","興民","HING MAN",1,"謝妙儀","TSE MIU YEE",,,,,3297,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"C31-2","C31","興民","HING MAN",2,"劉慶揚","LAU HING YEUNG",,,"民建聯","DAB",3113,"False",,,,,
+"C32-1","C32","樂康","LOK HONG",1,"李進秋","LI CHUN CHAU",,,,,2800,"False",,,,,
+"C32-2","C32","樂康","LOK HONG",2,"曾健成","TSANG KIN SHING","牛","BULL","社會民主連線","League Of Social Democrats",3563,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"C33-1","C33","翠德","TSUI TAK",1,"蔡志強","CHOI CHI KEUNG PETER","阿一",,,,2994,"True","Pro-Democracy","Active",,,
+"C33-2","C33","翠德","TSUI TAK",2,"李鎮強","LEE CHUN KEUNG",,,"自由黨","Liberal Party",2612,"False",,,,,
+"C34-1","C34","漁灣","YUE WAN",1,"胡健南","WOO KIN NAM","心仔",,,,30,"False",,,,,
+"C34-2","C34","漁灣","YUE WAN",2,"蔡翠雲","TSAI TSUI WAN",,,,,196,"False",,,,,
+"C34-3","C34","漁灣","YUE WAN",3,"徐子見","CHUI CHI KIN",,,"無","Nil",3814,"True","Pro-Democracy","Inactive","2021/5/9","還押","Custody"
+"C34-4","C34","漁灣","YUE WAN",4,"劉堅","LAU KIN",,,"民建聯 工聯會","DAB FTU",2374,"False",,,,,
+"C35-1","C35","佳曉","KAI HIU",1,"植潔鈴","CHIK KIT LING ELAINE",,,"民建聯 工聯會","DAB FTU",2712,"False",,,,,
+"C35-2","C35","佳曉","KAI HIU",2,"黎梓欣","LAI TSZ YAN",,,,,3200,"True","Pro-Democracy","Active",,,
+"C35-3","C35","佳曉","KAI HIU",3,"陳真真","TAN CHUN CHUN ENKI",,,,,581,"False",,,,,
+"D01-1","D01","香港仔","ABERDEEN",1,"黃銳熺","WONG YUI HEI ANGUS",,,"民主派","Democrat",5001,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D01-2","D01","香港仔","ABERDEEN",2,"任葆琳","YAM PAULINE",,,"獨立候選人","Independent Candidate",3020,"False",,,,,
+"D01-3","D01","香港仔","ABERDEEN",3,"李建成","LEE KIN SHING",,,,,31,"False",,,,,
+"D02-1","D02","鴨脷洲邨","AP LEI CHAU ESTATE",1,"林玉珍","LAM YUK CHUN",,,,,3274,"True","Pro-Beijing","Active",,,
+"D02-2","D02","鴨脷洲邨","AP LEI CHAU ESTATE",2,"陳堡明","CHAN PO MING",,,"民主黨","The Democratic Party",3092,"False",,,,,
+"D03-1","D03","鴨脷洲北","AP LEI CHAU NORTH",1,"陳炳洋","CHAN PING YEUNG",,,"民主黨","The Democratic Party",3136,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D03-2","D03","鴨脷洲北","AP LEI CHAU NORTH",2,"張錫容","CHEUNG SIK YUNG",,,,,1932,"False",,,,,
+"D04-1","D04","利東一","LEI TUNG I",1,"吳啓新","NG ALBERT KAI SAN",,,"民建聯","DAB",2258,"False",,,,,
+"D04-2","D04","利東一","LEI TUNG I",2,"陳欣兒","CHAN YAN YI",,,"民主黨","The Democratic Party",3827,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D05-1","D05","利東二","LEI TUNG II",1,"羅健熙","LO KIN HEI",,,"民主黨","The Democratic Party",4737,"True","Pro-Democracy","Inactive","2021/7/11","辭職","Resign"
+"D05-2","D05","利東二","LEI TUNG II",2,"譚晉杰","TAN JINJIE",,,"民建聯/工聯會","DAB/FTU",2801,"False",,,,,
+"D06-1","D06","海怡東","SOUTH HORIZONS EAST",1,"林啟暉","LAM KAI FAI",,,,,2960,"False",,,,,
+"D06-2","D06","海怡東","SOUTH HORIZONS EAST",2,"俞竣晞","YU CHUN HEI JAMES",,,,,3750,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D07-1","D07","海怡西","SOUTH HORIZONS WEST",1,"林浩波","LAM HO POR KELVIN",,,"民主派","Democrat",4164,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D07-2","D07","海怡西","SOUTH HORIZONS WEST",2,"陳家珮","CHAN JUDY KAPUI",,,"新民黨","New People's Party",3236,"False",,,,,
+"D08-1","D08","華貴","WAH KWAI",1,"潘秉康","POON PING HONG",,,,,4540,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D08-2","D08","華貴","WAH KWAI",2,"麥謝巧玲","MAK TSE HOW LING ADA",,,"民建聯","DAB",3111,"False",,,,,
+"D09-1","D09","華富南","WAH FU SOUTH",1,"黃才立","WONG CHOI LAP",,,"民建聯/工聯會","DAB / FTU",2478,"False",,,,,
+"D09-2","D09","華富南","WAH FU SOUTH",2,"黎熙琳","LI SHEE LIN",,,"民主黨","The Democratic Party",3121,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D10-1","D10","華富北","WAH FU NORTH",1,"張偉楠","CHEUNG WAI NAM",,,"民建聯","DAB",2366,"False",,,,,
+"D10-2","D10","華富北","WAH FU NORTH",2,"嚴駿豪","YIM CHUN HO",,,"民主黨","The Democractic Party",3751,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D11-1","D11","薄扶林","POKFULAM",1,"姚潔凝","YAO JIE NING MAXINE",,,"獨立, 温和, 中間","Independent, Moderation",164,"False",,,,,
+"D11-2","D11","薄扶林","POKFULAM",2,"蕭煒忠","SIU WAI CHUNG",,,"民建聯","DAB",1840,"False",,,,,
+"D11-3","D11","薄扶林","POKFULAM",3,"司馬文","ZIMMERMAN PAULUS JOHANNES",,,"獨立民主派","Independent Democrat",2547,"True","Pro-Democracy","Active",,,
+"D12-1","D12","置富","CHI FU",1,"羅霄","LO SIU LUCY",,,,,2744,"False",,,,,
+"D12-2","D12","置富","CHI FU",2,"林德和","LAM ANDREW TAK WO",,,,,4292,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D13-1","D13","田灣","TIN WAN",1,"袁嘉蔚","YUEN KA WAI TIFFANY",,,"民主派","Democrat",4191,"True","Pro-Democracy","Inactive",,"喪失資格","Disqualification"
+"D13-2","D13","田灣","TIN WAN",2,"陳富明","CHAN FU MING",,,,,2602,"False",,,,,
+"D14-1","D14","石漁","SHEK YUE",1,"陳衍冲","CHAN HIN CHUNG",,,,,4263,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"D14-2","D14","石漁","SHEK YUE",2,"朱立威","CHU LAP WAI",,,"民建聯","DAB",3321,"False",,,,,
+"D15-1","D15","黃竹坑","WONG CHUK HANG",1,"陳榮恩","CHAN WING YAN",,,"工聯會  民建聯","FTU  DAB",2893,"False",,,,,
+"D15-2","D15","黃竹坑","WONG CHUK HANG",2,"徐遠華","TSUI YUEN WA",,,"民主黨","THE DEMOCRATIC PARTY",3983,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"D16-1","D16","海灣","BAYS AREA",1,"丁偉良","DING WAI LEUNG",,,,,807,"False",,,,,
+"D16-2","D16","海灣","BAYS AREA",2,"梁進","LEUNG CHUN",,"JONATHAN","自由黨","Liberal Party",1882,"True","Pro-Beijing","Active",,,
+"D17-1","D17","赤柱及石澳","STANLEY & SHEK O",1,"李佩英","LEE PUI YING","陳李佩英","CHAN LEE PUI YING",,,2592,"False",,,,,
+"D17-2","D17","赤柱及石澳","STANLEY & SHEK O",2,"彭卓棋","PANG CHEUK KEI",,"MICHAEL","獨立民主派","Independent Democrat",2680,"True","Pro-Democracy","Active",,,
+"D17-3","D17","赤柱及石澳","STANLEY & SHEK O",3,"陳順意","CHAN SHUN YEE",,,,,103,"False",,,,,
+"E01-1","E01","尖沙咀西","TSIM SHA TSUI WEST",1,"梁幸輝","LEUNG HANG FAI",,,,,124,"False",,,,,
+"E01-2","E01","尖沙咀西","TSIM SHA TSUI WEST",2,"KHAN ABDULL GHAFAR","KHAN ABDULL GHAFAR","簡浩名","PHILLIP KHAN",,,35,"False",,,,,
+"E01-3","E01","尖沙咀西","TSIM SHA TSUI WEST",3,"潘景和","POON KING WO ALEX",,,"民建聯","DAB",788,"False",,,,,
+"E01-4","E01","尖沙咀西","TSIM SHA TSUI WEST",4,"馮檢基","FUNG KIN KEE FREDERICK",,,,,154,"False",,,,,
+"E01-5","E01","尖沙咀西","TSIM SHA TSUI WEST",5,"陳嘉朗","CHAN KA LONG",,"LESLIE CHAN","獨立民主派","Independent Democrats",1003,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"E02-1","E02","九龍站","KOWLOON STATION",1,"容𤋮智","YUNG HEI CHI",,,,,82,"False",,,,,
+"E02-2","E02","九龍站","KOWLOON STATION",2,"李穎妍","LI WING YIN",,"CINDY","民主黨","The Democratic Party",1821,"False",,,,,
+"E02-3","E02","九龍站","KOWLOON STATION",3,"孔昭華","HUNG CHIU WAH",,"DEREK","民建聯","DAB",1928,"True","Pro-Beijing","Active",,,
+"E03-1","E03","佐敦西","JORDAN WEST",1,"朱慧芳","TSUI WAI FONG NATALIE",,,,,2604,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"E03-2","E03","佐敦西","JORDAN WEST",2,"陳少棠","CHAN SIU TONG",,,"香港經濟民生聯盟","BPA",2233,"False",,,,,
+"E04-1","E04","油麻地南","YAU MA TEI SOUTH",1,"楊子熙","YEUNG TSZ HEI",,"BENNY","民建聯","DAB",2432,"False",,,,,
+"E04-2","E04","油麻地南","YAU MA TEI SOUTH",2,"胡穗珊","WU SUI SHAN",,"SUZANNE","社區前進","Community March",2984,"True","Pro-Democracy","Active",,,
+"E05-1","E05","富榮","CHARMING",1,"黃惠達","WONG WAI TAT",,,,,133,"False",,,,,
+"E05-2","E05","富榮","CHARMING",2,"李偉峰","LEE WAI FUNG",,,"民主黨","The Democratic Party ",4242,"True","Pro-Democracy","Active",,,
+"E05-3","E05","富榮","CHARMING",3,"鍾港武","CHUNG KONG MO",,,,,3373,"False",,,,,
+"E06-1","E06","旺角西","MONG KOK WEST",1,"許德亮","HUI TAK LEUNG",,,,,2102,"True","Pro-Beijing","Active",,,
+"E06-2","E06","旺角西","MONG KOK WEST",2,"陳源彬","CHAN YUEN PAN",,,,,1787,"False",,,,,
+"E07-1","E07","富柏","FU PAK",1,"余德寶","YU TAK PO",,,,,4748,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"E07-2","E07","富柏","FU PAK",2,"陳德立","CHAN TAK LAP",,,,,2844,"False",,,,,
+"E08-1","E08","奧運","OLYMPIC",1,"涂𧫴申","TO KUN SUN JAMES",,,"民主黨","The Democratic Party ",2957,"True","Pro-Democracy","Active",,,
+"E08-2","E08","奧運","OLYMPIC",2,"李家軒","LEE KA HIN",,,,,2130,"False",,,,,
+"E09-1","E09","櫻桃","CHERRY",1,"鍾澤暉","CHUNG CHAK FAI",,,,,2310,"True","Pro-Beijing","Active",,,
+"E09-2","E09","櫻桃","CHERRY",2,"伍僥敏","NG HIU MAN GLORIA",,,,,2014,"False",,,,,
+"E10-1","E10","大角咀南","TAI KOK TSUI SOUTH",1,"蔡少峰","CHOI SIU FUNG BENJAMIN",,,,,2068,"False",,,,,
+"E10-2","E10","大角咀南","TAI KOK TSUI SOUTH",2,"曾自鳴","TSANG TSZ MING",,,"民主黨","The Democratic Party",2632,"True","Pro-Democracy","Active",,,
+"E11-1","E11","大角咀北","TAI KOK TSUI NORTH",1,"劉柏祺","LAU PAK KEI",,,,,3028,"False",,,,,
+"E11-2","E11","大角咀北","TAI KOK TSUI NORTH",2,"李傲然","LI OWAN",,,,,3301,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"E12-1","E12","大南","TAI NAN",1,"李國權","LEE KWOK KUEN","阿權社工",,"社區前進","Community March",2943,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"E12-2","E12","大南","TAI NAN",2,"蔡其隆","CHOI KI LUNG",,,,,57,"False",,,,,
+"E12-3","E12","大南","TAI NAN",3,"李思敏","LI SZE MAN",,,"香港經濟民生聯盟","BPA",2046,"False",,,,,
+"E13-1","E13","旺角北","MONG KOK NORTH",1,"蕭德健","SIU TAK KIN LUCIFER",,,,,2161,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"E13-2","E13","旺角北","MONG KOK NORTH",2,"黃舒明","WONG SHU MING",,,"香港經濟民生聯盟","BPA",2076,"False",,,,,
+"E14-1","E14","旺角東","MONG KOK EAST",1,"林兆彬","LAM SIU PAN",,"BEN","社區前進","Community March",2663,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"E14-2","E14","旺角東","MONG KOK EAST",2,"黃建新","WONG KIN SAN",,,"香港經濟民生聯盟","BPA",1821,"False",,,,,
+"E15-1","E15","旺角南","MONG KOK SOUTH",1,"仇振輝","CHOW CHUN FAI",,,,,1747,"False",,,,,
+"E15-2","E15","旺角南","MONG KOK SOUTH",2,"朱江瑋","CHU KONG WAI",,,"社區前進","Community March",1977,"True","Pro-Democracy","Active",,,
+"E16-1","E16","油麻地北","YAU MA TEI NORTH",1,"林健文","LAM KIN MAN",,,,,2573,"True","Pro-Democracy","Active",,,
+"E16-2","E16","油麻地北","YAU MA TEI NORTH",2,"李文傑","LEE MAN KIT",,,,,1243,"False",,,,,
+"E17-1","E17","尖東及京士柏","EAST TSIM SHA TSUI & KING'S PARK",1,"朱子洛","CHU TSZ LOK",,"LEO","民主黨","Democratic Party",1745,"True","Pro-Democracy","Active",,,
+"E17-2","E17","尖東及京士柏","EAST TSIM SHA TSUI & KING'S PARK",2,"鄧銘心","TANG MING SUM MICHELLE",,,,,1567,"False",,,,,
+"E18-1","E18","佐敦北","JORDAN NORTH",1,"楊鎮華","JO CHUN WAH",,"CRAIG","民建聯","DAB",1117,"False",,,,,
+"E18-2","E18","佐敦北","JORDAN NORTH",2,"何富榮","HO FU WING",,"FRANK",,,1423,"True","Pro-Democracy","Active",,,
+"E19-1","E19","佐敦南","JORDAN SOUTH",1,"陳梓維","CHAN TSZ WAI",,,,,1516,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"E19-2","E19","佐敦南","JORDAN SOUTH",2,"葉傲冬","IP NGO TUNG CHRIS",,,"民建聯","DAB",1451,"False",,,,,
+"E20-1","E20","尖沙咀中","TSIM SHA TSUI CENTRAL",1,"賀卓軒","HO CHEUK HIN",,,,,1533,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"E20-2","E20","尖沙咀中","TSIM SHA TSUI CENTRAL",2,"關秀玲","KWAN SAU LING",,,"民建聯","DAB",1167,"False",,,,,
+"F01-1","F01","寶麗","PO LAI",1,"麥偉明","MAK WAI MING",,,,,3517,"True","Pro-Democracy","Active",,,
+"F01-2","F01","寶麗","PO LAI",2,"符偉樂","FOO WAI LOK",,,,,122,"False",,,,,
+"F01-3","F01","寶麗","PO LAI",3,"譚振宇","TAM CHUN YU",,,,,1860,"False",,,,,
+"F02-1","F02","長沙灣","CHEUNG SHA WAN",1,"李文浩","LEE MAN HO LEOS",,,,,3359,"True","Pro-Democracy","Active",,,
+"F02-2","F02","長沙灣","CHEUNG SHA WAN",2,"龐朝輝","PONG CHIU FAI",,,,,2103,"False",,,,,
+"F02-3","F02","長沙灣","CHEUNG SHA WAN",3,"葉智豪","YIP CHI HO",,,,,41,"False",,,,,
+"F03-1","F03","南昌北","NAM CHEONG NORTH",1,"王曉聖","WONG HIU SHING",,,,,55,"False",,,,,
+"F03-2","F03","南昌北","NAM CHEONG NORTH",2,"鄭泳舜","CHENG WING SHUN VINCENT",,,"民建聯","DAB",1747,"False",,,,,
+"F03-3","F03","南昌北","NAM CHEONG NORTH",3,"劉家衡","LAO KA HANG",,,,,2193,"True","Pro-Democracy","Inactive","2021/7/11","辭職","Resign"
+"F04-1","F04","石硤尾","SHEK KIP MEI",1,"冼錦豪","SIN KAM HO","豪仔","JEFFREY",,,3235,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"F04-2","F04","石硤尾","SHEK KIP MEI",2,"陳國偉","CHAN KWOK WAI",,,,,3225,"False",,,,,
+"F05-1","F05","南昌東","NAM CHEONG EAST",1,"陳龍傑","CHAN LUNG KIT",,,,,1916,"False",,,,,
+"F05-2","F05","南昌東","NAM CHEONG EAST",2,"何啟明","HO KAI MING KALVIN",,,,,2996,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"F06-1","F06","南昌南","NAM CHEONG SOUTH",1,"李詠民","LEE WING MAN",,,,,1734,"False",,,,,
+"F06-2","F06","南昌南","NAM CHEONG SOUTH",2,"李庭豐","LI TING FUNG",,,,,2334,"True","Pro-Democracy","Active",,,
+"F07-1","F07","南昌中","NAM CHEONG CENTRAL",1,"林倩同","LAM SIN TUNG","深水埗二妹",,,,1538,"False",,,,,
+"F07-2","F07","南昌中","NAM CHEONG CENTRAL",2,"劉佩玉","LAU PUI YUK",,,,,1640,"True","Pro-Beijing","Active",,,
+"F08-1","F08","南昌西","NAM CHEONG WEST",1,"衞煥南","WAI WOON NAM",,,,,3573,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"F08-2","F08","南昌西","NAM CHEONG WEST",2,"夏泳迦","HA WING KA",,,,,2074,"False",,,,,
+"F09-1","F09","富昌","FU CHEONG",1,"梁文廣","LEUNG MAN KWONG",,,,,4097,"False",,,,,
+"F09-2","F09","富昌","FU CHEONG",2,"黃傑朗","WONG KIT LONG",,,,,4281,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"F10-1","F10","麗閣","LAI KOK",1,"陳穎欣","CHAN WING YAN",,,,,3051,"False",,,,,
+"F10-2","F10","麗閣","LAI KOK",2,"李炯","LI KWING",,,,,3592,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"F11-1","F11","幸福","FORTUNE",1,"徐溢軒","TSUI YAT HIN RONALD",,,,,2668,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"F11-2","F11","幸福","FORTUNE",2,"張德偉","CHEUNG TAK WAI",,,,,2604,"False",,,,,
+"F12-1","F12","碧匯","PIK WUI",1,"鄒穎恒","CHOW WING HENG",,"ZOÉ","民主黨","The Democracy Party",1462,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"F12-2","F12","碧匯","PIK WUI",2,"黃永威","WONG WING WAI",,,,,1150,"False",,,,,
+"F12-3","F12","碧匯","PIK WUI",3,"馬愉生","MA YU SANG",,,,,120,"False",,,,,
+"F13-1","F13","荔枝角中","LAI CHI KOK CENTRAL",1,"袁海文","YUEN HOI MAN",,"RAMON","民主黨","The Democratic Party",4503,"True","Pro-Democracy","Active",,,
+"F13-2","F13","荔枝角中","LAI CHI KOK CENTRAL",2,"李祺逢","LI KI FUNG BRUCE",,,,,2584,"False",,,,,
+"F14-1","F14","荔枝角南","LAI CHI KOK SOUTH",1,"楊彧","YEUNG YUK",,,,,5292,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"F14-2","F14","荔枝角南","LAI CHI KOK SOUTH",2,"吳婉秋","WU WANQIU",,"ELAINE",,,3145,"False",,,,,
+"F15-1","F15","美孚南","MEI FOO SOUTH",1,"黃達東","WONG TAT TUNG",,,,,3117,"False",,,,,
+"F15-2","F15","美孚南","MEI FOO SOUTH",2,"周琬雯","CHAU YUEN MAN",,,"公民黨","Civic Party",4020,"True","Pro-Democracy","Inactive","2021/6/1","辭職","Resign"
+"F16-1","F16","美孚中","MEI FOO CENTRAL",1,"葉沛霖","YIP PUI LAM",,,,,2430,"False",,,,,
+"F16-2","F16","美孚中","MEI FOO CENTRAL",2,"伍月蘭","NG YUET LAN",,,,,3666,"True","Pro-Democracy","Active",,,
+"F17-1","F17","美孚北","MEI FOO NORTH",1,"李頴彰","LEE WING CHEUNG VIRGINIA",,,,,1347,"False",,,,,
+"F17-2","F17","美孚北","MEI FOO NORTH",2,"羅小燕","LAW SIU YIN",,,,,1193,"False",,,,,
+"F17-3","F17","美孚北","MEI FOO NORTH",3,"李俊晞","LI CHUN HEI JOSHUA",,,"公民黨","Civic Party",4154,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"F18-1","F18","荔枝角北","LAI CHI KOK NORTH",1,"覃德誠","CHUM TAK SHING",,,,,2738,"True","Pro-Democracy","Active",,,
+"F18-2","F18","荔枝角北","LAI CHI KOK NORTH",2,"周晉輝","CHAU CHUN FAI GARY",,,,,1372,"False",,,,,
+"F19-1","F19","元州","UN CHAU",1,"利瀚庭","LEE HON TING",,,,,3960,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"F19-2","F19","元州","UN CHAU",2,"陳偉明","CHAN WAI MING",,,,,3427,"False",,,,,
+"F20-1","F20","蘇屋","SO UK",1,"陳銘基","CHAN MING KEI",,,,,2522,"False",,,,,
+"F20-2","F20","蘇屋","SO UK",2,"林佩雯","LAM PUI MAN",,,,,51,"False",,,,,
+"F20-3","F20","蘇屋","SO UK",3,"何坤洲","HO KWAN CHAU",,,,,2650,"True","Pro-Beijing","Active",,,
+"F21-1","F21","李鄭屋","LEI CHENG UK",1,"江貴生","KONG KWAI SANG",,,,,4127,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"F21-2","F21","李鄭屋","LEI CHENG UK",2,"陳鏡秋","CHAN KENG CHAU",,,,,2490,"False",,,,,
+"F21-3","F21","李鄭屋","LEI CHENG UK",3,"林浩楠","LAM HO NAM",,,,,120,"False",,,,,
+"F22-1","F22","龍坪及上白田","LUNG PING & SHEUNG PAK TIN",1,"羅國豪","LAW KWOK HO",,,,,1680,"False",,,,,
+"F22-2","F22","龍坪及上白田","LUNG PING & SHEUNG PAK TIN",2,"吳美","NG MEI CARMAN",,,,,4031,"True","Pro-Democracy","Active",,,
+"F23-1","F23","下白田","HA PAK TIN",1,"林偉文","LAM WAI MAN RAYMOND",,,,,1952,"False",,,,,
+"F23-2","F23","下白田","HA PAK TIN",2,"甄啟榮","YAN KAI WING",,,,,3206,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"F23-3","F23","下白田","HA PAK TIN",3,"陳澤誠","CHAN CHAK SHING",,,,,41,"False",,,,,
+"F23-4","F23","下白田","HA PAK TIN",4,"方智龍","FONG CHI LUNG",,,,,436,"False",,,,,
+"F24-1","F24","又一村","YAU YAT TSUEN",1,"劉偉聰","LAU WAI CHUNG",,,,,2487,"True","Pro-Democracy","Active",,,
+"F24-2","F24","又一村","YAU YAT TSUEN",2,"李梓敬","LEE TSZ KING DOMINIC",,,"自由黨","Liberal Party",2391,"False",,,,,
+"F25-1","F25","南山、大坑東及大坑西","NAM SHAN, TAI HANG TUNG & TAI HANG SAI",1,"徐駿楠","CHUI CHUN NAM",,,,,116,"False",,,,,
+"F25-2","F25","南山、大坑東及大坑西","NAM SHAN, TAI HANG TUNG & TAI HANG SAI",2,"陳麗紅","CHEN LIHONG",,,,,3231,"False",,,,,
+"F25-3","F25","南山、大坑東及大坑西","NAM SHAN, TAI HANG TUNG & TAI HANG SAI",3,"陳炳輝","CHAN PING FAI",,,,,47,"False",,,,,
+"F25-4","F25","南山、大坑東及大坑西","NAM SHAN, TAI HANG TUNG & TAI HANG SAI",4,"譚國僑","TAM KWOK KIU",,,,,4546,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"G01-1","G01","馬頭圍","MA TAU WAI",1,"邵天虹","SIU TIN HUNG",,,"民建聯","DAB",3712,"False",,,,,
+"G01-2","G01","馬頭圍","MA TAU WAI",2,"林天恩","LAM TIN YAN",,,,,93,"False",,,,,
+"G01-3","G01","馬頭圍","MA TAU WAI",3,"曾健超","TSANG KIN CHIU",,,"獨立民主派","Independent Pro-democracy camp",4264,"True","Pro-Democracy","Active",,,
+"G02-1","G02","宋皇臺","SUNG WONG TOI",1,"楊振宇","YEUNG CHUN YU",,,,,3406,"True","Pro-Democracy","Active",,,
+"G02-2","G02","宋皇臺","SUNG WONG TOI",2,"胡銘泰","WU MING TAI",,,"工聯會","FTU",1315,"False",,,,,
+"G02-3","G02","宋皇臺","SUNG WONG TOI",3,"葉志偉","IP CHI WAI ALEXANDER",,,,,318,"False",,,,,
+"G03-1","G03","馬坑涌","MA HANG CHUNG",1,"鄧巧彤","TANG HOU TONG",,,"工聯會、民建聯","With Chinese version only",2437,"False",,,,,
+"G03-2","G03","馬坑涌","MA HANG CHUNG",2,"黎廣偉","LAI KWONG WAI",,,,,3966,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"G03-3","G03","馬坑涌","MA HANG CHUNG",3,"陳曉威","CHAN HIU WAI",,,,,84,"False",,,,,
+"G04-1","G04","馬頭角","MA TAU KOK",1,"關浩洋","KWAN HO YEUNG",,,"民建聯","DAB",2195,"False",,,,,
+"G04-2","G04","馬頭角","MA TAU KOK",2,"馬希鵬","MA HEI PANG",,,,,2499,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"G04-3","G04","馬頭角","MA TAU KOK",3,"程敏琪","CHING MAN KI",,,,,40,"False",,,,,
+"G05-1","G05","樂民","LOK MAN",1,"楊永杰","YANG WING KIT",,,,,3312,"True","Pro-Beijing","Active",,,
+"G05-2","G05","樂民","LOK MAN",2,"林正軒","LAM VINCENT",,,,,2694,"False",,,,,
+"G06-1","G06","常樂","SHEUNG LOK",1,"陸勁光","LUK KING KWONG",,,"民建聯","DAB",3250,"False",,,,,
+"G06-2","G06","常樂","SHEUNG LOK",2,"黃永傑","WONG WING KIT",,,,,4583,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"G06-3","G06","常樂","SHEUNG LOK",3,"吳嘉輝","NG KA FAI",,,,,119,"False",,,,,
+"G07-1","G07","何文田","HO MAN TIN",1,"馮文韜","FUNG JOSHUA MAN TAO",,,,,3722,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"G07-2","G07","何文田","HO MAN TIN",2,"莊曉盈","CHONG HIU YING WASABI",,,,,96,"False",,,,,
+"G07-3","G07","何文田","HO MAN TIN",3,"鄭利明","CHENG LEE MING",,,,,3422,"False",,,,,
+"G08-1","G08","嘉道理","KADOORIE",1,"黃文港","WONG MAN KONG",,,,,2256,"False",,,,,
+"G08-2","G08","嘉道理","KADOORIE",2,"蕭亮聲","SIU LEONG SING",,,,,3929,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"G09-1","G09","太子","PRINCE",1,"譚杰文","TAM KIT MAN",,,,,164,"False",,,,,
+"G09-2","G09","太子","PRINCE",2,"丁健華","TING KIN WA",,,,,2219,"False",,,,,
+"G09-3","G09","太子","PRINCE",3,"黃國桐","WONG KWOK TUNG",,,,,2512,"True","Pro-Democracy","Active",,,
+"G10-1","G10","九龍塘","KOWLOON TONG",1,"温仲然","WAN CHUNG YIN MATTHEW",,,,,2567,"False",,,,,
+"G10-2","G10","九龍塘","KOWLOON TONG",2,"何顯明","HO HIN MING",,,,,2952,"True","Pro-Beijing","Active",,,
+"G11-1","G11","龍城","LUNG SHING",1,"吳寶強","NG PO KEUNG",,,"民建聯","DAB",1983,"True","Pro-Beijing","Active",,,
+"G11-2","G11","龍城","LUNG SHING",2,"方毅妍","FONG NGAI YIN",,,,,101,"False",,,,,
+"G11-3","G11","龍城","LUNG SHING",3,"馮達浚","FUNG TAT CHUN FRANKIE",,,,,1884,"False",,,,,
+"G12-1","G12","啟德北","KAI TAK NORTH",1,"梁婉婷","LEUNG YUEN TING",,,,,2480,"True","Pro-Beijing","Active",,,
+"G12-2","G12","啟德北","KAI TAK NORTH",2,"黃梓俊","WONG TSZ CHUN",,,,,29,"False",,,,,
+"G12-3","G12","啟德北","KAI TAK NORTH",3,"曾俊達","TSANG CHUN TAT",,,,,2043,"False",,,,,
+"G13-1","G13","啟德東","KAI TAK EAST",1,"何華漢","HE HUAHAN",,,,,2638,"True","Pro-Beijing","Active",,,
+"G13-2","G13","啟德東","KAI TAK EAST",2,"黃業東","WONG YIP TUNG",,"TONY",,,1835,"False",,,,,
+"G14-1","G14","啟德中及南","KAI TAK CENTRAL & SOUTH",1,"張景勛","CHEUNG KING FAN",,,,,1574,"True","Pro-Beijing","Active",,,
+"G14-2","G14","啟德中及南","KAI TAK CENTRAL & SOUTH",2,"梁咏欣","LEUNG WING YAN",,,,,1367,"False",,,,,
+"G15-1","G15","海心","HOI SHAM",1,"童繼民","TUNG KAI MAN",,"JACK TUNG",,,2890,"False",,,,,
+"G15-2","G15","海心","HOI SHAM",2,"潘國華","PUN KWOK WAH",,,"民建聯","DAB",2916,"True","Pro-Beijing","Active",,,
+"G16-1","G16","土瓜灣北","TO KWA WAN NORTH",1,"梁國雄","LEUNG KWOK HUNG","長毛","LONG HAIR","社會民主連線","League of Social Democrats",1538,"False",,,,,
+"G16-2","G16","土瓜灣北","TO KWA WAN NORTH",2,"李慧琼","LEE WAI KING STARRY",,,"民建聯","DAB",1881,"True","Pro-Beijing","Active",,,
+"G17-1","G17","土瓜灣南","TO KWA WAN SOUTH",1,"林博","LAM POK",,"JIMMY",,,1766,"False",,,,,
+"G17-2","G17","土瓜灣南","TO KWA WAN SOUTH",2,"李軒朗","LEE HIN LONG",,"TIMOTHY LEE",,,1936,"True","Pro-Democracy","Inactive",,"被裁定非妥為當選","Not Duly Elected"
+"G17-3","G17","土瓜灣南","TO KWA WAN SOUTH",3,"黃綺婷","WONG YI TING",,,,,107,"False",,,,,
+"G18-1","G18","鶴園海逸","HOK YUEN LAGUNA VERDE",1,"李浩培","LEE HO PUI",,,,,66,"False",,,,,
+"G18-2","G18","鶴園海逸","HOK YUEN LAGUNA VERDE",2,"郭天立","KWOK TIN LAP",,"TONY KWOK",,,3054,"True","Pro-Democracy","Active",,,
+"G18-3","G18","鶴園海逸","HOK YUEN LAGUNA VERDE",3,"余志榮","YUE CHEE WING ADMOND",,,,,2683,"False",,,,,
+"G19-1","G19","黃埔東","WHAMPOA EAST",1,"關家倫","KWAN KA LUN",,,"獨立候選人","Independent Candidate",4595,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"G19-2","G19","黃埔東","WHAMPOA EAST",2,"李超宇","LEE CHIU YU",,,,,3374,"False",,,,,
+"G20-1","G20","黃埔西","WHAMPOA WEST",1,"鄭曉玲","CHENG HIU LING",,,,,2910,"False",,,,,
+"G20-2","G20","黃埔西","WHAMPOA WEST",2,"鄺葆賢","KWONG PO YIN",,,"無","NIL",4715,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"G21-1","G21","紅磡灣","HUNG HOM BAY",1,"林紫欣","LAM TSZ YAN",,,,,178,"False",,,,,
+"G21-2","G21","紅磡灣","HUNG HOM BAY",2,"黃馳","WONG CHI",,,,,2688,"False",,,,,
+"G21-3","G21","紅磡灣","HUNG HOM BAY",3,"任國棟","YUM KWOK TUNG PIUS",,,"民主黨","The Democratic Party",3554,"True","Pro-Democracy","Active",,,
+"G22-1","G22","紅磡","HUNG HOM",1,"關兆倫","KWAN SIU LUN",,,"獨立候選人","Independent Candidate",1524,"False",,,,,
+"G22-2","G22","紅磡","HUNG HOM",2,"林德成","LAM TAK SHING",,,,,1779,"True","Pro-Beijing","Active",,,
+"G23-1","G23","家維","KA WAI",1,"周熙雯","CHAU HEI MAN",,,,,4115,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"G23-2","G23","家維","KA WAI",2,"勞超傑","LO CHIU KIT",,,,,3769,"False",,,,,
+"G23-3","G23","家維","KA WAI",3,"李進龍","LI CHUN LUNG",,,,,58,"False",,,,,
+"G24-1","G24","愛民","OI MAN",1,"吳奮金","NG FAN KAM",,,"民建聯","DAB",3176,"False",,,,,
+"G24-2","G24","愛民","OI MAN",2,"麥瑞淇","MAK SUI KI",,,"民主黨 ","The Democratic Party",3625,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"G25-1","G25","愛俊","OI CHUN",1,"左滙雄","CHO WUI HUNG",,,"經民聯","BPA",3268,"True","Pro-Beijing","Active",,,
+"G25-2","G25","愛俊","OI CHUN",2,"陳麗君","CHAN LAI KWAN",,,"民主黨 ","The Democratic Party",3237,"False",,,,,
+"G25-3","G25","愛俊","OI CHUN",3,"梁嘉莉","LEUNG KA LEE",,,,,454,"False",,,,,
+"H01-1","H01","龍趣","LUNG TSUI",1,"莊鼎威","CHONG TING WAI",,,"民主動力","With Chinese version only",2911,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H01-2","H01","龍趣","LUNG TSUI",2,"李東江","LEE TUNG KONG",,,,,2651,"False",,,,,
+"H02-1","H02","龍下","LUNG HA",1,"郭秀英","KWOK SAU YING",,,,,4394,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H02-2","H02","龍下","LUNG HA",2,"鍾博文","CHUNG POK MAN",,,,,2192,"False",,,,,
+"H03-1","H03","龍上","LUNG SHEUNG",1,"陳俊裕","CHAN CHUN YUE",,,"獨立","Independent",4460,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H03-2","H03","龍上","LUNG SHEUNG",2,"林文輝","LAM MAN FAI",,,,,3581,"False",,,,,
+"H04-1","H04","鳳凰","FUNG WONG",1,"楊諾軒","YEUNG NOK HIN",,,,,1831,"False",,,,,
+"H04-2","H04","鳳凰","FUNG WONG",2,"鄧惠强","TANG WAI KEUNG",,,"民主黨","The Democratic Party",2882,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"H05-1","H05","鳳德","FUNG TAK",1,"越毅強","YUET NGAI KEUNG",,,"民建聯","DAB",3436,"False",,,,,
+"H05-2","H05","鳳德","FUNG TAK",2,"張嘉宜","CHEUNG KA YI",,,"慈雲山建設力量","Tsz Wan Shan Constructive Power",4396,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H06-1","H06","龍星","LUNG SING",1,"陳進雄","CHAN CHUN HUNG",,,"獨立","Independent",336,"False",,,,,
+"H06-2","H06","龍星","LUNG SING",2,"莫嘉傑","MOK KA KIT","傑仔","IVAN","獨立候選人","Independent Candidate",2708,"False",,,,,
+"H06-3","H06","龍星","LUNG SING",3,"譚香文","TAM HEUNG MAN",,,,,6098,"True","Pro-Democracy","Active",,,
+"H06-4","H06","龍星","LUNG SING",4,"岳敬寬","NGOK KING FUN",,,,,130,"False",,,,,
+"H07-1","H07","新蒲崗","SAN PO KONG",1,"陳啟淳","CHAN KAI SHUN",,,"獨立","Independent",4372,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"H07-2","H07","新蒲崗","SAN PO KONG",2,"雷啟蓮","LUI KAI LIN WENDY",,,,,3468,"False",,,,,
+"H08-1","H08","東頭","TUNG TAU",1,"李德康","LI TAK HONG",,,"民建聯","DAB",3659,"False",,,,,
+"H08-2","H08","東頭","TUNG TAU",2,"温子衆","WAN CHI CHUNG HIROKO","阿頌",,,,3822,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"H09-1","H09","東美","TUNG MEI",1,"楊光富","YEUNG KWONG FU",,,,,2314,"False",,,,,
+"H09-2","H09","東美","TUNG MEI",2,"施德來","SZE TAK LOY",,,"民協","ADPL",4854,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"H10-1","H10","樂富","LOK FU",1,"梁銘康","LEUNG MING HONG",,,,,3451,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"H10-2","H10","樂富","LOK FU",2,"陳偉坤","CHAN WAI KWAN ANDIE",,,,,2764,"False",,,,,
+"H11-1","H11","橫頭磡","WANG TAU HOM",1,"劉珈汶","LAU KA MAN",,"CARMEN","公民黨","Civic Party",4518,"True","Pro-Democracy","Inactive","2021/6/8","辭職","Resign"
+"H11-2","H11","橫頭磡","WANG TAU HOM",2,"黎榮浩","LAI WING HO JOE",,,"民建聯","DAB",3401,"False",,,,,
+"H12-1","H12","天強","TIN KEUNG",1,"陳安泰","CHAN ON TAI",,,"自由黨","Liberal Party",3075,"False",,,,,
+"H12-2","H12","天強","TIN KEUNG",2,"鄭文杰","CHENG MAN KIT",,"JC","公民黨","Civic Party",4608,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H13-1","H13","翠竹及鵬程","TSUI CHUK & PANG CHING",1,"尤漢邦","YAU HON PONG",,,"獨立","Independent",4087,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H13-2","H13","翠竹及鵬程","TSUI CHUK & PANG CHING",2,"陳英","CHAN YING LEONARD",,,,,3838,"False",,,,,
+"H13-3","H13","翠竹及鵬程","TSUI CHUK & PANG CHING",3,"沈喜明","SHAM HI MING ANTHONY",,,,,476,"False",,,,,
+"H14-1","H14","竹園南","CHUK YUEN SOUTH",1,"李健聰","LEE KIN CHUNG",,,"工聯會","FTU",2576,"False",,,,,
+"H14-2","H14","竹園南","CHUK YUEN SOUTH",2,"許錦成","HUI KAM SHING",,,,,3838,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"H15-1","H15","竹園北","CHUK YUEN NORTH",1,"鄭梓健","CHENG TSZ KIN",,,,,4221,"True","Pro-Democracy","Inactive","2021/5/24","辭職","Resign"
+"H15-2","H15","竹園北","CHUK YUEN NORTH",2,"丁志威","TING CHI WAI ROY",,,"獨立候選人","Independent Candidate",3384,"False",,,,,
+"H16-1","H16","慈雲西","TSZ WAN WEST",1,"張茂清","CHEUNG MAU CHING",,,"民主黨","The Democratic Party",5010,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H16-2","H16","慈雲西","TSZ WAN WEST",2,"袁國強","YUEN KWOK KEUNG",,,"民建聯","DAB",3642,"False",,,,,
+"H17-1","H17","正愛","CHING OI",1,"岑宇軒","SHAM YU HIN",,,"慈雲山建設力量","Tsz Wan Shan Constructive Power",5764,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H17-2","H17","正愛","CHING OI",2,"潘卓斌","POON CHEUK BUN",,,"民建聯","DAB",3670,"False",,,,,
+"H18-1","H18","正安","CHING ON",1,"劉學廉","LAU HOK LIM",,,"工聯會","FTU",2584,"False",,,,,
+"H18-2","H18","正安","CHING ON",2,"黃逸旭","WONG YAT YUK",,,,,5862,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"H19-1","H19","慈雲東","TSZ WAN EAST",1,"何漢文","HO HON MAN",,,"民建聯","DAB",3624,"False",,,,,
+"H19-2","H19","慈雲東","TSZ WAN EAST",2,"莫綺霞","MOK YEE HA",,,"民主動力","Power for Democracy",4709,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H20-1","H20","瓊富","KING FU",1,"莫嘉嫻","MOK KA HAN ROSANDA",,,"民主黨","The Democratic Party",5559,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H20-2","H20","瓊富","KING FU",2,"黃鎮健","WONG CHUN KIN",,,,,3903,"False",,,,,
+"H21-1","H21","彩雲東","CHOI WAN EAST",1,"蔡子健","CHOY TSZ KIN TIMOTHY",,,"民建聯","DAB",2773,"False",,,,,
+"H21-2","H21","彩雲東","CHOI WAN EAST",2,"廖成利","LIU SING LEE",,,"民協","ADPL",2976,"True","Pro-Democracy","Active",,,
+"H22-1","H22","彩雲南","CHOI WAN SOUTH",1,"江景新","KONG KING SAN",,,"民建聯","DAB",2414,"False",,,,,
+"H22-2","H22","彩雲南","CHOI WAN SOUTH",2,"沈運華","SHUM WAN WA",,,"民主黨","The Democratic Party",3335,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"H23-1","H23","彩雲西","CHOI WAN WEST",1,"陳利成","CHAN LEE SHING",,,"民主黨","The Democratic Party",3501,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H23-2","H23","彩雲西","CHOI WAN WEST",2,"譚美普","TAM MEI PO",,,"工聯會 / 民建聯","FTU / DAB",2936,"False",,,,,
+"H24-1","H24","池彩","CHI CHOI",1,"蘇嘉樂","SO KA LOK",,,"工聯會","FTU",2856,"False",,,,,
+"H24-2","H24","池彩","CHI CHOI",2,"胡志健","WU CHI KIN",,,"民主黨","THE DEMOCRATIC PARTY",4055,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"H25-1","H25","彩虹","CHOI HUNG",1,"莫灝哲","MOCK HO CHIT SEAN",,,,,3523,"True","Pro-Democracy","Active",,,
+"H25-2","H25","彩虹","CHOI HUNG",2,"莫健榮","MOK KIN WING",,,,,3439,"False",,,,,
+"J01-1","J01","觀塘中心","KWUN TONG CENTRAL",1,"陳華裕","CHAN WAH YU NELSON",,,,,2245,"False",,,,,
+"J01-2","J01","觀塘中心","KWUN TONG CENTRAL",2,"梁翊婷","LEUNG YIK TING EDITH","婷婷",,"民主黨"," The Democratic Party ",2863,"True","Pro-Democracy","Active",,,
+"J02-1","J02","九龍灣","KOWLOON BAY",1,"潘任惠珍","POON YAM WAI CHUN WINNIE",,,,,3454,"True","Pro-Democracy","Active",,,
+"J02-2","J02","九龍灣","KOWLOON BAY",2,"黎裕興","LAI YU HING",,,,,557,"False",,,,,
+"J02-3","J02","九龍灣","KOWLOON BAY",3,"賴俊文","LAI CHUN MAN",,,,,1286,"False",,,,,
+"J03-1","J03","啟業","KAI YIP",1,"歐陽均諾","AU YEUNG KWAN NOK",,,,,3794,"False",,,,,
+"J03-2","J03","啟業","KAI YIP",2,"尹家謙","WAN KA HIM",,,"民主黨","The Democratic Party",4433,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"J04-1","J04","麗晶","LAI CHING",1,"BUX SHEIK ANTHONY","BUX SHEIK ANTHONY","畢東尼","ANTHONY BUX",,,5364,"True","Pro-Democracy","Inactive","2021/6/1","辭職","Resign"
+"J04-2","J04","麗晶","LAI CHING",2,"陳蒨葶","CHAN SIN TING",,,,,2494,"False",,,,,
+"J05-1","J05","坪石","PING SHEK",1,"黎寶桂","LAI PO KWAI",,,"民主黨","The Democratic Party  ",2982,"True","Pro-Democracy","Active",,,
+"J05-2","J05","坪石","PING SHEK",2,"陳俊傑","CHAN CHUN KIT",,,,,2849,"False",,,,,
+"J06-1","J06","彩德","CHOI TAK",1,"譚肇卓","TAM SIU CHEUK",,,,,2882,"True","Pro-Beijing","Active",,,
+"J06-2","J06","彩德","CHOI TAK",2,"林子權","LAM TSZ KUEN",,,,,2156,"False",,,,,
+"J07-1","J07","佐敦谷","JORDAN VALLEY",1,"顏汶羽","NGAN MAN YU",,,,,3694,"True","Pro-Beijing","Active",,,
+"J07-2","J07","佐敦谷","JORDAN VALLEY",2,"黃家樂","WONG KA LOK",,,,,3560,"False",,,,,
+"J08-1","J08","順天","SHUN TIN",1,"郭必錚","KWOK BIT CHUN",,"BENJAMIN KWOK",,,3136,"False",,,,,
+"J08-2","J08","順天","SHUN TIN",2,"莫建成","MOK KIN SHING",,,"民主黨","The Democratic Party",5123,"True","Pro-Democracy","Inactive","2021/7/20","辭職","Resign"
+"J09-1","J09","雙順","SHEUNG SHUN",1,"陳祖光","CHAN CHO KWONG",,,,,949,"False",,,,,
+"J09-2","J09","雙順","SHEUNG SHUN",2,"梁漢祺","LEUNG MARK HON KEI",,,,,3006,"False",,,,,
+"J09-3","J09","雙順","SHEUNG SHUN",3,"符碧珍","FU PIK CHUN",,,,,4200,"True","Pro-Beijing","Active",,,
+"J10-1","J10","安利","ON LEE",1,"蔡澤鴻","CHOY CHAK HUNG",,,,,3687,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"J10-2","J10","安利","ON LEE",2,"曾榮輝","TSANG WING FAI",,,,,2704,"False",,,,,
+"J11-1","J11","觀塘安泰","KWUN TONG ON TAI",1,"林冠存","LIN KUAN TSUN","存仔",,,,2241,"False",,,,,
+"J11-2","J11","觀塘安泰","KWUN TONG ON TAI",2,"林瑋","LAM WAI",,,,,2901,"True","Pro-Beijing","Active",,,
+"J12-1","J12","秀茂坪北","SAU MAU PING NORTH",1,"鄧威文","TANG WAI MAN RAYMOND",,,"獨立民主派","Independent Pro-democracy Camp",3993,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"J12-2","J12","秀茂坪北","SAU MAU PING NORTH",2,"黃春平","WONG CHUN PING",,,,,3564,"False",,,,,
+"J13-1","J13","秀茂坪中","SAU MAU PING CENTRAL",1,"蘇偉洋","SO WAI YEUNG DANNY",,,,,3872,"False",,,,,
+"J13-2","J13","秀茂坪中","SAU MAU PING CENTRAL",2,"張培剛","CHEUNG PUI KONG",,,,,4176,"True","Pro-Beijing","Active",,,
+"J14-1","J14","安達","ON TAT",1,"李承璋","LEE SENG CHANG",,,,,38,"False",,,,,
+"J14-2","J14","安達","ON TAT",2,"劉伯遠","LAU PAK YUEN",,,,,43,"False",,,,,
+"J14-3","J14","安達","ON TAT",3,"蕭浩然","SIU HO YIN",,"JASON",,,2393,"False",,,,,
+"J14-4","J14","安達","ON TAT",4,"許有為","HSU YAU WAI",,,,,3499,"True","Pro-Beijing","Active",,,
+"J15-1","J15","秀茂坪南","SAU MAU PING SOUTH",1,"李梓成","LEI TSZ SHING",,,,,3711,"False",,,,,
+"J15-2","J15","秀茂坪南","SAU MAU PING SOUTH",2,"陳耀雄","CHAN YIU HUNG JIMMY",,,,,3977,"True","Pro-Beijing","Active",,,
+"J16-1","J16","寶達","PO TAT",1,"馮家龍","FUNG KA LUNG",,,,,4332,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"J16-2","J16","寶達","PO TAT",2,"洪錦鉉","HUNG KAM IN",,,,,3946,"False",,,,,
+"J17-1","J17","廣德","KWONG TAK",1,"柯創盛","OR CHONG SHING WILSON",,,,,4514,"True","Pro-Beijing","Active",,,
+"J17-2","J17","廣德","KWONG TAK",2,"譚得志","TAM TAK CHI","快必",,,,4327,"False",,,,,
+"J18-1","J18","興田","HING TIN",1,"葉梓傑","IP TSZ KIT","傑仔","NELSON",,,4751,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"J18-2","J18","興田","HING TIN",2,"余邵倫","YU SIU LUN","阿倫","ALAN YU",,,3417,"False",,,,,
+"J19-1","J19","藍田","LAM TIN",1,"簡銘東","KAN MING TUNG",,,,,4080,"True","Pro-Beijing","Active",,,
+"J19-2","J19","藍田","LAM TIN",2,"馮德森","FUNG TAK SUM",,,,,4030,"False",,,,,
+"J20-1","J20","平田","PING TIN",1,"陳易舜","CHAN YIK SHUN","舜仔","EASON CHAN",,,4490,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"J20-2","J20","平田","PING TIN",2,"姚柏良","YIU PAK LEUNG",,,"獨立候選人","Indipendent Candidate",4012,"False",,,,,
+"J21-1","J21","栢雅","PAK NGA",1,"何啟明","HO KAI MING",,,,,3066,"False",,,,,
+"J21-2","J21","栢雅","PAK NGA",2,"陳宇明","CHAN YU MING",,,,,138,"False",,,,,
+"J21-3","J21","栢雅","PAK NGA",3,"陳汶堅","CHAN MAN KIN",,,,,3825,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"J22-1","J22","俊翔","CHUN CHEUNG",1,"黃啟燊","WONG KAI SAN",,,"工聯會","FTU",2721,"False",,,,,
+"J22-2","J22","俊翔","CHUN CHEUNG",2,"謝淑珍","TSE SUK CHUN",,,"無","NIL",4480,"True","Pro-Democracy","Active",,,
+"J23-1","J23","油塘東","YAU TONG EAST",1,"龔振祺","KUNG CHUN KI","公仔",,"獨立候選人","Independent Candidate",2997,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"J23-2","J23","油塘東","YAU TONG EAST",2,"張琪騰","CHEUNG KI TANG",,,,,2972,"False",,,,,
+"J24-1","J24","油翠","YAU CHUI",1,"梁家聲","LEUNG KA SHING",,,,,68,"False",,,,,
+"J24-2","J24","油翠","YAU CHUI",2,"鍾淬坤","CHUNG SUI KWAN",,,,,2572,"False",,,,,
+"J24-3","J24","油翠","YAU CHUI",3,"陳富景","CHAN FU KING",,,,,605,"False",,,,,
+"J24-4","J24","油翠","YAU CHUI",4,"龐智笙","PANG CHI SANG",,,"公屋聯會","The Federation of Public Housing Estates",2857,"True","Pro-Beijing","Active",,,
+"J25-1","J25","油麗","YAU LAI",1,"王偉麟","WANG WAI LUN",,,,,3070,"True","Pro-Democracy","Inactive","2021/7/15","辭職","Resign"
+"J25-2","J25","油麗","YAU LAI",2,"黎樹濠","LAI SHU HO PATRICK",,,"獨立候選人","Independent Candidate",2530,"False",,,,,
+"J26-1","J26","油塘西","YAU TONG WEST",1,"呂東孩","LUI TUNG HAI",,,,,3853,"True","Pro-Beijing","Active",,,
+"J26-2","J26","油塘西","YAU TONG WEST",2,"黃邵南","WONG SIU NAM MICHAEL",,,"獨立民主派","Independent Democrat",3541,"False",,,,,
+"J27-1","J27","麗港城","LAGUNA CITY",1,"鄧咏駿","TANG WING CHUN",,,"獨立候選人","Independent Candidate",3951,"False",,,,,
+"J27-2","J27","麗港城","LAGUNA CITY",2,"李煒林","LI WAI LAM WILLIAM",,,,,6450,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"J28-1","J28","景田","KING TIN",1,"呂奭群","LUI SIK KWAN DANNY",,,,,3518,"False",,,,,
+"J28-2","J28","景田","KING TIN",2,"王嘉盈","WONG KA YING",,,,,5638,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"J29-1","J29","翠屏","TSUI PING",1,"鄭強峰","CHENG KEUNG FUNG",,,"公屋聯會","THE FEDERATION OF PUBLIC HOUSING ESTATES",3822,"False",,,,,
+"J29-2","J29","翠屏","TSUI PING",2,"洪駿軒","HUNG CHUN HIN","阿軒",,"民主黨","The Democratic Party",4203,"True","Pro-Democracy","Inactive",,"被裁定非妥為當選","Not Duly Elected"
+"J30-1","J30","曉麗","HIU LAI",1,"張敏峯","CHEUNG MAN FUNG WILSON",,,,,5470,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"J30-2","J30","曉麗","HIU LAI",2,"蘇麗珍","SO LAI CHUN",,,,,3644,"False",,,,,
+"J31-1","J31","寶樂","PO LOK",1,"馮泓叡","FUNG WANG YUI","叡仔","RIO",,,2252,"False",,,,,
+"J31-2","J31","寶樂","PO LOK",2,"鄭景陽","CHENG KENG IEONG",,,"民主黨","The Democratic Party",4070,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"J32-1","J32","月華","YUET WAH",1,"徐海山","HSU HOI SHAN",,,"獨立候選人","Independent Candidate",2557,"False",,,,,
+"J32-2","J32","月華","YUET WAH",2,"梁凱晴","LEUNG JANNELLE ROSALYNNE",,,"獨立民主派","Pro-democracy candidate",2969,"True","Pro-Democracy","Inactive",,"入獄","Jail"
+"J33-1","J33","協康","HIP HONG",1,"陳振彬","CHAN CHUNG BUN BUNNY",,,,,2329,"False",,,,,
+"J33-2","J33","協康","HIP HONG",2,"李嘉達","LI KA TAT",,,,,2612,"True","Pro-Democracy","Inactive","2021/4/19","辭職","Resign"
+"J34-1","J34","樂華南","LOK WAH SOUTH",1,"李嘉恒","LEE KA HANG",,,,,2774,"False",,,,,
+"J34-2","J34","樂華南","LOK WAH SOUTH",2,"蘇冠聰","SO KOON CHUNG KEVIN",,,"無","NIL",2856,"True","Pro-Democracy","Active",,,
+"J35-1","J35","樂華北","LOK WAH NORTH",1,"黃子健","WONG CHI KEN",,,,,3628,"True","Pro-Democracy","Inactive","2021/7/20","辭職","Resign"
+"J35-2","J35","樂華北","LOK WAH NORTH",2,"梁力","LIANG LI",,,,,2346,"False",,,,,
+"J36-1","J36","康樂","HONG LOK",1,"陳嘉言","CHAN CHRIS KA YIN",,,,,3231,"True","Pro-Democracy","Inactive","2021/6/1","辭職","Resign"
+"J36-2","J36","康樂","HONG LOK",2,"馬軼超","MA YAT CHIU",,,,,2359,"False",,,,,
+"J37-1","J37","定安","TING ON",1,"金堅","KAM KIN",,,,,2752,"False",,,,,
+"J37-2","J37","定安","TING ON",2,"黃啟明","WONG KAI MING",,,"民主黨","The Democratic Party",3522,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"J38-1","J38","牛頭角上邨","UPPER NGAU TAU KOK ESTATE",1,"鄭駿樺","CHENG CHUN WAH","樺仔",,,,3093,"False",,,,,
+"J38-2","J38","牛頭角上邨","UPPER NGAU TAU KOK ESTATE",2,"梁騰丰","LEUNG TANG FUNG",,,,,3247,"True","Pro-Beijing","Active",,,
+"J39-1","J39","牛頭角下邨","LOWER NGAU TAU KOK ESTATE",1,"張姚彬","CHEUNG YIU PAN",,,,,3704,"False",,,,,
+"J39-2","J39","牛頭角下邨","LOWER NGAU TAU KOK ESTATE",2,"李詠珊","LI WING SHAN",,,"獨立候選人","Independent Candidate",3962,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"J40-1","J40","淘大","TO TAI",1,"李軍澤","LEE KWAN CHAK",,,,,3940,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"J40-2","J40","淘大","TO TAI",2,"葉興國","YIP HING KWOK",,,"獨立侯選人","With Chinese version only",2398,"False",,,,,
+"K01-1","K01","德華","TAK WAH",1,"羅少傑","LO SIU KIT",,,,,1756,"False",,,,,
+"K01-2","K01","德華","TAK WAH",2,"劉肇軒","LAU JACKSON",,,"荃民議政","Deliberation tw",1964,"True","Pro-Democracy","Inactive","2021/7/13","辭職","Resign"
+"K02-1","K02","楊屋道","YEUNG UK ROAD",1,"伍俊瑜","NG CHUN YU","大魚",,"民建聯","DAB",2614,"False",,,,,
+"K02-2","K02","楊屋道","YEUNG UK ROAD",2,"黃晚就","WONG MAN CHAU",,,,,108,"False",,,,,
+"K02-3","K02","楊屋道","YEUNG UK ROAD",3,"林錫添","LAM SEK TIM",,,,,2788,"True","Pro-Democracy","Active",,,
+"K03-1","K03","荃灣南","TSUEN WAN SOUTH",1,"陳杰","CHAN KIT WILLIAM",,,"民建聯","DAB",1860,"False",,,,,
+"K03-2","K03","荃灣南","TSUEN WAN SOUTH",2,"陸靈中","LUK LING CHUNG ANTONIO",,,"公民黨","Civic Party",3261,"True","Pro-Democracy","Active",,,
+"K03-3","K03","荃灣南","TSUEN WAN SOUTH",3,"馬庭熙","MA TING HEI","阿庭",,,,880,"False",,,,,
+"K04-1","K04","海濱","HOI BUN",1,"莫遠君","MOK YUEN KWAN","莫仔","MARCUS","獨立","Independent",1940,"False",,,,,
+"K04-2","K04","海濱","HOI BUN",2,"岑敖暉","SHUM LESTER",,,"朱凱廸新西團隊、民主動力","Team Chu Hoi Dick of NTW / Power of Democracy",5113,"True","Pro-Democracy","Inactive",,"喪失資格","Disqualification"
+"K04-3","K04","海濱","HOI BUN",3,"陳宇希","CHAN YUE HAI LEO",,,,,22,"False",,,,,
+"K04-4","K04","海濱","HOI BUN",4,"鄒秉恬","CHOW PING TIM",,"TIMMY",,,1974,"False",,,,,
+"K05-1","K05","荃灣西","TSUEN WAN WEST",1,"易承聰","YICK SHING CHUNG ANGUS",,,"民主黨","The Democratic Party",4718,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"K05-2","K05","荃灣西","TSUEN WAN WEST",2,"林琳","LAM LAM NIXIE",,,"民建聯","DAB",2910,"False",,,,,
+"K06-1","K06","祈德尊","CLAGUE GARDEN",1,"陳劍琴","CHAN KIM KAM",,,"民主派區選聯盟","Democratic Coalition for DC Election",2797,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"K06-2","K06","祈德尊","CLAGUE GARDEN",2,"古揚邦","KOO YEUNG PONG",,,"民建聯","DAB",2730,"False",,,,,
+"K07-1","K07","荃灣中心","TSUEN WAN CENTRE",1,"李洪波","LI HUNG POR",,,,,3887,"True","Pro-Democracy","Active",,,
+"K07-2","K07","荃灣中心","TSUEN WAN CENTRE",2,"曾大","TSANG TAI",,,"民建聯 工聯會","DAB  HKFTU",2479,"False",,,,,
+"K08-1","K08","愉景","DISCOVERY PARK",1,"劉卓裕","LAU CHEUK YU",,,"荃民議政","DeliberationTW",4498,"True","Pro-Democracy","Active",,,
+"K08-2","K08","愉景","DISCOVERY PARK",2,"田北辰","TIEN MICHAEL PUK SUN",,,,,3804,"False",,,,,
+"K09-1","K09","福來","FUK LOI",1,"伍嘉儀","NG KA YEE VICTORIA",,,,,226,"False",,,,,
+"K09-2","K09","福來","FUK LOI",2,"葛兆源","KOT SIU YUEN",,,,,2871,"True","Pro-Beijing","Active",,,
+"K09-3","K09","福來","FUK LOI",3,"黃湛聯","WONG CHARM LUEN",,,,,2351,"False",,,,,
+"K10-1","K10","綠楊","LUK YEUNG",1,"潘朗聰","PUN LONG CHUNG ROY",,,"新民主同盟","Neo Democrats",3677,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"K10-2","K10","綠楊","LUK YEUNG",2,"林發耿","LAM FAAT KANG",,,,,2810,"False",,,,,
+"K11-1","K11","馬灣","MA WAN",1,"譚凱邦","TAM HOI PONG",,,"新民主同盟","Neo Democrats",3538,"True","Pro-Democracy","Inactive","2021/4/19","辭職","Resign"
+"K11-2","K11","馬灣","MA WAN",2,"黃俊揚","WONG CHUN YEUNG",,,,,1493,"False",,,,,
+"K11-3","K11","馬灣","MA WAN",3,"倫智偉","LUN CHI WAI",,,,,90,"False",,,,,
+"K12-1","K12","荃灣郊區","TSUEN WAN RURAL",1,"譚蓓欣","TAM PUI YAN",,,"荃民議政","DeliberationTW",3054,"False",,,,,
+"K12-2","K12","荃灣郊區","TSUEN WAN RURAL",2,"伍顯龍","NG HIN LUNG",,"NORRIS","獨立","Independent",3409,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"K12-3","K12","荃灣郊區","TSUEN WAN RURAL",3,"關新偉","KWAN SAN WAI",,,,,1221,"False",,,,,
+"K13-1","K13","汀深","TING SHAM",1,"宏荃麟","WAN CHUEN LUN SAMSON",,,,,18,"False",,,,,
+"K13-2","K13","汀深","TING SHAM",2,"劉志雄","LAU CHI HUNG","孖田",,"民主動力","Power For Democracy",3489,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"K13-3","K13","汀深","TING SHAM",3,"鄭捷彬","CHENG CHIT PUN",,,,,2931,"False",,,,,
+"K13-4","K13","汀深","TING SHAM",4,"林勁放","LAM BRIAN",,,,,149,"False",,,,,
+"K14-1","K14","麗濤","LAI TO",1,"黃偉傑","WONG WAI KIT",,,,,3624,"False",,,,,
+"K14-2","K14","麗濤","LAI TO",2,"謝旻澤","TSE MAN CHAK",,"RONALD","獨立（民主派）","Independent (Pro-democracy)",5098,"True","Pro-Democracy","Inactive","2021/7/11","辭職","Resign"
+"K15-1","K15","荃威","ALLWAY",1,"趙恩來","CHIU YAN LOY",,,"工黨","Labour Party",4444,"True","Pro-Democracy","Inactive","2021/7/17","辭職","Resign"
+"K15-2","K15","荃威","ALLWAY",2,"林婉濱","LAM YUEN PUN",,,,,3446,"False",,,,,
+"K16-1","K16","象石","CHEUNG SHEK",1,"賴文輝","LAI MAN FAI",,,"民主黨","The Democractic Party",2857,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"K16-2","K16","象石","CHEUNG SHEK",2,"陳振中","CHAN CHUN CHUNG",,,,,2387,"False",,,,,
+"K17-1","K17","石圍角","SHEK WAI KOK",1,"廖浩雲","LIU HO WAN",,,,,2464,"False",,,,,
+"K17-2","K17","石圍角","SHEK WAI KOK",2,"文裕明","MAN YU MING",,,,,2684,"True","Pro-Beijing","Active",,,
+"K18-1","K18","梨木樹西","LEI MUK SHUE WEST",1,"馮卓森","FUNG CHEUK SUM",,,,,2108,"False",,,,,
+"K18-2","K18","梨木樹西","LEI MUK SHUE WEST",2,"黃家華","WONG KA WA",,,"公民黨","CIVIC PARTY",4129,"True","Pro-Democracy","Active",,,
+"K19-1","K19","梨木樹東","LEI MUK SHUE EAST",1,"林顯輝","LAM HIN FAI",,,"民建聯 工聯會","DAB  HKFTU",2441,"False",,,,,
+"K19-2","K19","梨木樹東","LEI MUK SHUE EAST",2,"陳琬琛","CHAN YUEN SUM SUMLY",,,,,5214,"True","Pro-Democracy","Active",,,
+"L01-1","L01","屯門市中心","TUEN MUN TOWN CENTRE",1,"黎駿穎","LAI CHUN WING",,"ALFRED","民主黨","The Democratic Party",4161,"True","Pro-Democracy","Inactive","2021/7/7","辭職","Resign"
+"L01-2","L01","屯門市中心","TUEN MUN TOWN CENTRE",2,"歐志遠","AU CHI YUEN",,,,,2424,"False",,,,,
+"L02-1","L02","兆置","SIU CHI",1,"王加良","WONG KA LEUNG",,,,,1623,"False",,,,,
+"L02-2","L02","兆置","SIU CHI",2,"林頌鎧","LAM CHUNG HOI",,,,,5798,"True","Pro-Democracy","Active",,,
+"L03-1","L03","安定","ON TING",1,"馮沛賢","FUNG PUI YIN",,,"工聯會/民建聯","FTU/DAB",3313,"False",,,,,
+"L03-2","L03","安定","ON TING",2,"江鳳儀","KONG FUNG YI",,,,,4204,"True","Pro-Democracy","Active",,,
+"L04-1","L04","兆翠","SIU TSUI",1,"葉文斌","YIP MAN PAN",,,"民建聯","DAB",4224,"False",,,,,
+"L04-2","L04","兆翠","SIU TSUI",2,"甄霈霖","YAN PUI LAM",,,"朱凱廸新西團隊、民主動力","Team Chu Hoi Dick of NTW, Power for Democracy",5769,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"L05-1","L05","友愛南","YAU OI SOUTH",1,"林健翔","LAM KIN CHEUNG","翔仔",,"工黨","Labour Party",3954,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"L05-2","L05","友愛南","YAU OI SOUTH",2,"曾憲康","TSANG HIN HONG",,,"民建聯","DAB",2279,"False",,,,,
+"L06-1","L06","友愛北","YAU OI NORTH",1,"林明恩","LAM MING YAN",,,"工黨","Labour Party",4074,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"L06-2","L06","友愛北","YAU OI NORTH",2,"葉俊遠","IP CHUN YUEN",,,"民建聯","DAB",2345,"False",,,,,
+"L07-1","L07","翠興","TSUI HING",1,"潘智鍵","POON CHI KIN",,,"屯門社區網絡","Tuen Mun Community Network",4662,"True","Pro-Democracy","Active",,,
+"L07-2","L07","翠興","TSUI HING",2,"朱耀華","CHU YIU WAH",,,,,3028,"False",,,,,
+"L08-1","L08","山景","SHAN KING",1,"吳鍱珮","NG DIP PUI",,,,,2653,"False",,,,,
+"L08-2","L08","山景","SHAN KING",2,"黃丹晴","WONG TAN CHING",,,"屯門社區網絡","Tuen Mun Community Network",4780,"True","Pro-Democracy","Active",,,
+"L09-1","L09","景興","KING HING",1,"劉幸兒","LAU HANG YI",,,,,105,"False",,,,,
+"L09-2","L09","景興","KING HING",2,"羅焯勇","LAW CHEUK YUNG",,,"屯門社區網絡","Tuen Mun Community Netowrk",2756,"False",,,,,
+"L09-3","L09","景興","KING HING",3,"陳有海","CHAN YAU HOI",,,,,2893,"True","Pro-Beijing","Active",,,
+"L10-1","L10","興澤","HING TSAK",1,"曾振興","TSANG CHUN HING",,,"屯門社區網絡","Tuen Mun Community Network",3815,"True","Pro-Democracy","Inactive","2021/7/11","辭職","Resign"
+"L10-2","L10","興澤","HING TSAK",2,"徐帆","TSUI FAN",,,,,3390,"False",,,,,
+"L11-1","L11","新墟","SAN HUI",1,"張可森","CHEUNG HO SUM",,,,,3276,"True","Pro-Democracy","Inactive",,"還押","Custody"
+"L11-2","L11","新墟","SAN HUI",2,"古漢強","KWU HON KEUNG",,,,,2140,"False",,,,,
+"L12-1","L12","掃管笏","SO KWUN WAT",1,"陳家正","CHAN JEREMY KA CHING",,,,,982,"False",,,,,
+"L12-2","L12","掃管笏","SO KWUN WAT",2,"劉啟文","LAU KAI MAN PETER",,,,,466,"False",,,,,
+"L12-3","L12","掃管笏","SO KWUN WAT",3,"馬旗","MA KEE",,,"民主黨","The Democratic Party",1648,"True","Pro-Democracy","Inactive","2021/5/31","辭職","Resign"
+"L13-1","L13","三聖","SAM SHING",1,"巫堃泰","MO KWAN TAI MICHAEL",,,,,2834,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"L13-2","L13","三聖","SAM SHING",2,"蘇炤成","SO SHIU SHING",,,,,2198,"False",,,,,
+"L14-1","L14","恒福","HANFORD",1,"朱順雅","CHU SHUN NGA BEATRICE",,,"民主黨","The Democratic Party",3857,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"L14-2","L14","恒福","HANFORD",2,"方淳恩","FONG SHUN YAN",,,,,1981,"False",,,,,
+"L15-1","L15","悅湖","YUET WU",1,"官東榮","KWUN TUNG WING",,,,,141,"False",,,,,
+"L15-2","L15","悅湖","YUET WU",2,"張恒輝","CHEUNG HANG FAI",,,"民建聯","DAB",2415,"False",,,,,
+"L15-3","L15","悅湖","YUET WU",3,"黃虹銘","WONG HUNG MING",,,,,4419,"True","Pro-Democracy","Active",,,
+"L16-1","L16","兆禧","SIU HEI",1,"甄紹南","YAN SIU NAM",,,,,3934,"True","Pro-Democracy","Active",,,
+"L16-2","L16","兆禧","SIU HEI",2,"蔡承憲","TSOI SHING HIN",,,"民建聯","DAB",1808,"False",,,,,
+"L17-1","L17","湖景","WU KING",1,"周啟廉","CHOW KAI LIM",,,"民協","ADPL",3724,"True","Pro-Democracy","Active",,,
+"L17-2","L17","湖景","WU KING",2,"梁健文","LEUNG KIN MAN",,,"民建聯","DAB",1766,"False",,,,,
+"L18-1","L18","蝴蝶","BUTTERFLY",1,"楊智恒","YEUNG CHI HANG",,,"民協","ADPL",4279,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"L18-2","L18","蝴蝶","BUTTERFLY",2,"鍾健峰","CHUNG KIN FUNG",,,"民建聯","DAB",2809,"False",,,,,
+"L19-1","L19","富新","FU SUN",1,"李家偉","LEE KA WAI",,,,,5486,"True","Pro-Democracy","Inactive",,"流亡","Exile"
+"L19-2","L19","富新","FU SUN",2,"甘文鋒","KAM MAN FUNG",,,,,3599,"False",,,,,
+"L20-1","L20","樂翠","LOK TSUI",1,"何君堯","HO KWAN YIU",,,,,2626,"False",,,,,
+"L20-2","L20","樂翠","LOK TSUI",2,"盧俊宇","LO CHUN YU",,,,,3839,"True","Pro-Democracy","Inactive","2021/7/7","辭職","Resign"
+"L20-3","L20","樂翠","LOK TSUI",3,"蔣靖雯","CHIANG CHING MAN",,,,,56,"False",,,,,
+"L21-1","L21","龍門","LUNG MUN",1,"曾錦榮","TSANG KAM WING",,,"龍門關注組","Lung Mun Concern Group",4410,"True","Pro-Democracy","Active",,,
+"L21-2","L21","龍門","LUNG MUN",2,"龍瑞卿","LUNG SHUI HING",,,"民建聯","DAB",2931,"False",,,,,
+"L22-1","L22","新景","SAN KING",1,"陳暹恆","CHAN TSIM HENG",,,"民建聯","DAB",2040,"False",,,,,
+"L22-2","L22","新景","SAN KING",2,"黃麗嫦","WONG LAI SHEUNG CATHERINE",,,"民主黨","The Democratic Party",4698,"True","Pro-Democracy","Inactive","2021/7/7","辭職","Resign"
+"L23-1","L23","良景","LEUNG KING",1,"程志紅","CHING CHI HUNG",,,"民建聯","DAB",2697,"False",,,,,
+"L23-2","L23","良景","LEUNG KING",2,"王德源","WONG TAK YUEN",,,"屯門社區網絡","Tuen Mun Community Network",4073,"True","Pro-Democracy","Active",,,
+"L23-3","L23","良景","LEUNG KING",3,"鄧文傑","TANG MAN KIT",,,"熱血公民","Civic Passion",303,"False",,,,,
+"L24-1","L24","田景","TIN KING",1,"梁灝文","LEUNG HO MAN",,,,,4254,"True","Pro-Democracy","Active",,,
+"L24-2","L24","田景","TIN KING",2,"梁逸朗","LEUNG YAT LONG",,,"熱血公民","Civic Passion",758,"False",,,,,
+"L24-3","L24","田景","TIN KING",3,"雷美玉","LUI MEI YUK",,,,,37,"False",,,,,
+"L24-4","L24","田景","TIN KING",4,"李洪森","LEE HUNG SHAM LOTHAR",,,,,3038,"False",,,,,
+"L25-1","L25","寶田","PO TIN",1,"蘇嘉雯","SO KA MAN",,,,,2562,"True","Pro-Beijing","Active",,,
+"L25-2","L25","寶田","PO TIN",2,"張贊華","CHEUNG TSAN WA",,,"獨立民主派","With Chinese version only",1885,"False",,,,,
+"L26-1","L26","建生","KIN SANG",1,"陳文華","CHAN MAN WAH",,,"民建聯","DAB",3096,"False",,,,,
+"L26-2","L26","建生","KIN SANG",2,"羅佩麗","LAW PEI LEE",,,,,4730,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"L27-1","L27","兆康","SIU HONG",1,"巫成鋒","MO SHING FUNG",,,"民建聯","DAB",2939,"False",,,,,
+"L27-2","L27","兆康","SIU HONG",2,"陳樹英","CHAN SHU YING JOSEPHINE",,,,,3784,"True","Pro-Democracy","Inactive","2021/7/7","辭職","Resign"
+"L28-1","L28","欣田","YAN TIN",1,"黃梓雋","WONG CHI CHUN",,,,,611,"False",,,,,
+"L28-2","L28","欣田","YAN TIN",2,"賴嘉汶","LAI KA MAN",,"APPLE","民建聯","DAB",2203,"True","Pro-Beijing","Active",,,
+"L28-3","L28","欣田","YAN TIN",3,"盧偉明","LO WAI MING",,,"民主黨、香港教育專業人員協會","The Democratic Party, HKPTU",1865,"False",,,,,
+"L29-1","L29","屯門鄉郊","TUEN MUN RURAL",1,"陶錫源","TO SHECK YUEN",,,,,2513,"False",,,,,
+"L29-2","L29","屯門鄉郊","TUEN MUN RURAL",2,"張錦雄","CHEUNG KAM HUNG KENNETH",,,,,3797,"True","Pro-Democracy","Active",,,
+"L30-1","L30","富泰","FU TAI",1,"何國豪","HO KWOK HO",,,"匯政衞言","Empowering Hong Kong",5590,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"L30-2","L30","富泰","FU TAI",2,"陳文偉","CHAN MANWELL",,,,,3461,"False",,,,,
+"L31-1","L31","景峰","PRIME VIEW",1,"何杏梅","HO HANG MUI",,,,,5534,"True","Pro-Democracy","Inactive","2021/7/7","辭職","Resign"
+"L31-2","L31","景峰","PRIME VIEW",2,"鄺珉樀","KWONG MAN TIK",,,,,2649,"False",,,,,
+"M01-1","M01","豐年","FUNG NIN",1,"陳敬倫","CHAN KING LUN KISSLAN",,"K-SIR",,,3476,"True","Pro-Democracy","Inactive","2021/7/15","辭職","Resign"
+"M01-2","M01","豐年","FUNG NIN",2,"呂堅","LUI KIN",,,"民建聯","DAB",3003,"False",,,,,
+"M02-1","M02","元朗中心","YUEN LONG CENTRE",1,"蕭浪鳴","SIU LONG MING",,,"民建聯","DAB",1797,"False",,,,,
+"M02-2","M02","元朗中心","YUEN LONG CENTRE",2,"石景澄","SHEK KING CHING",,,,,2637,"True","Pro-Democracy","Inactive","2021/7/13","辭職","Resign"
+"M03-1","M03","鳳翔","FUNG CHEUNG",1,"莊展銘","CHONG CHIN MING",,,"民建聯","DAB",2448,"False",,,,,
+"M03-2","M03","鳳翔","FUNG CHEUNG",2,"麥業成","MAK IP SING",,,,,3832,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"M04-1","M04","元龍","YUEN LUNG",1,"張秀賢","CHEUNG SAU YIN",,,,,3177,"True","Pro-Democracy","Active",,,
+"M04-2","M04","元龍","YUEN LUNG",2,"周樂寧","CHOW LOK NING ERIC",,,,,7,"False",,,,,
+"M04-3","M04","元龍","YUEN LUNG",3,"王威信","WONG WAI SHUN",,,,,2281,"False",,,,,
+"M05-1","M05","十八鄉中","SHAP PAT HEUNG CENTRAL",1,"方浩軒","FONG HO HIN","軒仔","WILLIS","動元18","Action 18",4013,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"M05-2","M05","十八鄉中","SHAP PAT HEUNG CENTRAL",2,"周葉銘","CHOW YIP MING","阿銘",,,,139,"False",,,,,
+"M05-3","M05","十八鄉中","SHAP PAT HEUNG CENTRAL",3,"梁明堅","LEUNG MING KIN",,,,,2473,"False",,,,,
+"M06-1","M06","水邊","SHUI PIN",1,"潘倩敏","POON SIN MAN IVALINE",,,,,86,"False",,,,,
+"M06-2","M06","水邊","SHUI PIN",2,"袁敏兒","YUEN MAN YEE",,,,,3466,"False",,,,,
+"M06-3","M06","水邊","SHUI PIN",3,"黎國泳","LAI KWOK WING",,,,,3799,"True","Pro-Democracy","Active",,,
+"M07-1","M07","南屏","NAM PING",1,"林偉明","LAM WAI MING",,,"民建聯","DAB",2102,"False",,,,,
+"M07-2","M07","南屏","NAM PING",2,"黃偉賢","WONG WAI YIN ZACHARY",,,,,3727,"True","Pro-Democracy","Active",,,
+"M07-3","M07","南屏","NAM PING",3,"陳惠儀","CHAN WAI YI",,,,,126,"False",,,,,
+"M08-1","M08","北朗","PEK LONG",1,"譚煒霖","TAM WAI LAM AUGUST",,,"民建聯","DAB",2584,"False",,,,,
+"M08-2","M08","北朗","PEK LONG",2,"鄺俊宇","KWONG CHUN YU",,,"民主黨","The Democratic Party",4382,"True","Pro-Democracy","Active",,,
+"M09-1","M09","元朗東頭","YUEN LONG TUNG TAU",1,"林廷衞","LAM TING WAI",,,"民主黨","The Democratic Party ",2377,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"M09-2","M09","元朗東頭","YUEN LONG TUNG TAU",2,"李啟立","LI KAI LAP RIBEN",,,"民建聯","DAB",1614,"False",,,,,
+"M10-1","M10","十八鄉北","SHAP PAT HEUNG NORTH",1,"劉晉宇","LAU CHUN YU ADRIAN",,,"動元十八","Action18",1602,"False",,,,,
+"M10-2","M10","十八鄉北","SHAP PAT HEUNG NORTH",2,"沈豪傑","SHUM HO KIT",,,"獨立","Independent",1896,"True","Pro-Beijing","Active",,,
+"M11-1","M11","十八鄉東","SHAP PAT HEUNG EAST",1,"林添福","LAM TIM FOOK",,,,,1500,"False",,,,,
+"M11-2","M11","十八鄉東","SHAP PAT HEUNG EAST",2,"李俊威","LEE CHUN WAI",,,"民主動力","Power for Democracy",1838,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"M11-3","M11","十八鄉東","SHAP PAT HEUNG EAST",3,"黃柏仁","WONG PAK YAN",,,,,488,"False",,,,,
+"M12-1","M12","十八鄉西","SHAP PAT HEUNG WEST",1,"司徒博文","SZE-TO POK MAN",,,,,3391,"True","Pro-Democracy","Inactive","2021/5/14","辭職","Resign"
+"M12-2","M12","十八鄉西","SHAP PAT HEUNG WEST",2,"陳有鴻","CHAN YAU HUNG",,,,,344,"False",,,,,
+"M12-3","M12","十八鄉西","SHAP PAT HEUNG WEST",3,"梁福元","LEUNG FUK YUEN",,,,,3080,"False",,,,,
+"M13-1","M13","屏山南","PING SHAN SOUTH",1,"黃頌銘","WONG CHUNG MING",,,,,18,"False",,,,,
+"M13-2","M13","屏山南","PING SHAN SOUTH",2,"梁德明","LEUNG TAK MING",,,"朱凱廸新西團隊 / 民主動力","Team Chu Hoi Dick of NTW, Power For Democracy",3172,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"M13-3","M13","屏山南","PING SHAN SOUTH",3,"鄧龍威","TANG LUNG WAI",,,,,529,"False",,,,,
+"M13-4","M13","屏山南","PING SHAN SOUTH",4,"張偉琛","CHEUNG WAI SUM",,,,,2270,"False",,,,,
+"M14-1","M14","洪福","HUNG FUK",1,"陳樹暉","CHAN SHU FAI EDDIE",,,"朱凱迪新西團隊/民主動力","Team Chu Hoi Dick of NTW, Power for Democracy",1780,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"M14-2","M14","洪福","HUNG FUK",2,"潘茜甄","POON SIN YAN",,,,,12,"False",,,,,
+"M14-3","M14","洪福","HUNG FUK",3,"徐君紹","CHUI KWAN SIU",,,"民建聯 / 新社聯","DAB/NTAS",1626,"False",,,,,
+"M15-1","M15","廈村","HA TSUEN",1,"董楨榦","TUNG CHING KON",,,,,2091,"False",,,,,
+"M15-2","M15","廈村","HA TSUEN",2,"鄧家良","TANG KA LEUNG",,,,,2937,"True","Pro-Beijing","Active",,,
+"M16-1","M16","屏山中","PING SHAN CENTRAL",1,"鄧達善","TANG TAT SIN",,,,,2294,"False",,,,,
+"M16-2","M16","屏山中","PING SHAN CENTRAL",2,"張智陽","CHEUNG CHI YEUNG FELIX",,,,,2479,"True","Pro-Democracy","Active",,,
+"M17-1","M17","盛欣","SHING YAN",1,"莊豪鋒","CHONG HO FUNG",,,,,1195,"False",,,,,
+"M17-2","M17","盛欣","SHING YAN",2,"林慧明","LAM WAI MING",,,"新社聯","NTAS",1495,"False",,,,,
+"M17-3","M17","盛欣","SHING YAN",3,"吳嘉駿","NG KA CHUN",,,,,61,"False",,,,,
+"M17-4","M17","盛欣","SHING YAN",4,"黃國雄","WONG KWOK HUNG",,,,,60,"False",,,,,
+"M17-5","M17","盛欣","SHING YAN",5,"區國權","AU KWOK KUEN",,,"朱凱迪新西團隊/ 民主動力","Team Chu Hoi Dick of NTW/ Power for Democracy",3530,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"M18-1","M18","天盛","TIN SHING",1,"陳思靜","CHAN SZE CHING",,,,,2830,"False",,,,,
+"M18-2","M18","天盛","TIN SHING",2,"侯文健","HAU MAN KIN",,,,,3347,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"M19-1","M19","天耀","TIN YIU",1,"梁榮生","LEUNG CHIN HANG","恆仔",,,,372,"False",,,,,
+"M19-2","M19","天耀","TIN YIU",2,"何惠彬","HO WAI PAN",,,,,3513,"True","Pro-Democracy","Inactive","2021/7/14","辭職","Resign"
+"M19-3","M19","天耀","TIN YIU",3,"司徒駿軒","SZE TO CHUN HIN",,,"民建聯、新社聯","DAB/NTAS",2408,"False",,,,,
+"M19-4","M19","天耀","TIN YIU",4,"陳科伊","CHAN FOR YI",,,,,55,"False",,,,,
+"M20-1","M20","耀祐","YIU YAU",1,"馬淑燕","MA SHUK YIN",,,,,2444,"False",,,,,
+"M20-2","M20","耀祐","YIU YAU",2,"伍軒宏","NG HIN WANG",,,"民主黨","The Democratic Party",4027,"True","Pro-Democracy","Active",,,
+"M21-1","M21","慈祐","TSZ YAU",1,"陳美蓮","CHAN MEI LIN",,,,,4238,"True","Pro-Democracy","Active",,,
+"M21-2","M21","慈祐","TSZ YAU",2,"蘇淵","SO YUEN",,,"民建聯 / 新社聯","DAB / NTAS",2376,"False",,,,,
+"M22-1","M22","嘉湖南","KINGSWOOD SOUTH",1,"湛家雄","CHAM KA HUNG DANIEL",,,"獨立候選人","Independent candidate",3159,"False",,,,,
+"M22-2","M22","嘉湖南","KINGSWOOD SOUTH",2,"吳玉英","NG YUK YING",,"KATY","民主黨","THE DEMOCRATIC PARTY ",3882,"True","Pro-Democracy","Inactive","2021/7/13","辭職","Resign"
+"M23-1","M23","瑞愛","SHUI OI",1,"湯德駿","TONG TAK CHUN",,,"民建聯","DAB",3005,"False",,,,,
+"M23-2","M23","瑞愛","SHUI OI",2,"黎寳華","LAI PO WA","程太","SANDY LAI",,,4605,"True","Pro-Democracy","Active",,,
+"M23-3","M23","瑞愛","SHUI OI",3,"黃志輝","WONG CHI FAI",,,,,960,"False",,,,,
+"M24-1","M24","瑞華","SHUI WAH",1,"林進","LAM CHUN",,,,,3955,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"M24-2","M24","瑞華","SHUI WAH",2,"黃子毅","WONG CHI NGAI",,,,,528,"False",,,,,
+"M24-3","M24","瑞華","SHUI WAH",3,"周永勤","CHOW WING KAN",,,,,2264,"False",,,,,
+"M25-1","M25","頌華","CHUNG WAH",1,"黃煒鈴","WONG WAI LING",,,"民建聯 / 新社聯","DAB / NTAS",2680,"False",,,,,
+"M25-2","M25","頌華","CHUNG WAH",2,"陳詩雅","CHAN SZE NGA",,,,,3659,"True","Pro-Democracy","Active",,,
+"M26-1","M26","頌栢","CHUNG PAK",1,"張國棟","CHEUNG KWOK TUNG",,,,,187,"False",,,,,
+"M26-2","M26","頌栢","CHUNG PAK",2,"李煒鋒","LEE WAI FUNG",,,,,3249,"True","Pro-Democracy","Active",,,
+"M26-3","M26","頌栢","CHUNG PAK",3,"郭靜然","KWOK CHING YIN",,,,,2404,"False",,,,,
+"M27-1","M27","嘉湖北","KINGSWOOD NORTH",1,"伍健偉","NG KIN WAI","K先生","MR. K",,,4371,"True","Pro-Democracy","Inactive","2021/5/10","還押","Custody"
+"M27-2","M27","嘉湖北","KINGSWOOD NORTH",2,"陶皜訊","TO HO SHUN",,"JW",,,177,"False",,,,,
+"M27-3","M27","嘉湖北","KINGSWOOD NORTH",3,"李月民","LEE YUET MAN",,,,,4206,"False",,,,,
+"M28-1","M28","悅恩","YUET YAN",1,"康展華","HONG CHIN WAH",,,,,3416,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"M28-2","M28","悅恩","YUET YAN",2,"賴玥均","LAI YUET KWAN FENNIE",,,,,2837,"False",,,,,
+"M29-1","M29","晴景","CHING KING",1,"郭文浩","KWOK MAN HO",,,"民主黨","Democratic Party",3809,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"M29-2","M29","晴景","CHING KING",2,"鄧焯謙","TANG CHEUK HIM",,,,,3154,"False",,,,,
+"M30-1","M30","富恩","FU YAN",1,"劉桂容","LAU KWAI YUNG",,,,,3557,"False",,,,,
+"M30-2","M30","富恩","FU YAN",2,"關俊笙","KWAN CHUN SANG",,,,,4325,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"M31-1","M31","逸澤","YAT CHAK",1,"王頴思","WONG WING SZE",,,,,4454,"True","Pro-Democracy","Active",,,
+"M31-2","M31","逸澤","YAT CHAK",2,"范煦瑜","FAN REGINE HUI YU",,,,,600,"False",,,,,
+"M31-3","M31","逸澤","YAT CHAK",3,"郭慶平","KWOK HING PING",,,,,2607,"False",,,,,
+"M32-1","M32","天恒","TIN HENG",1,"王百羽","WONG PAK YU",,,,,6004,"True","Pro-Democracy","Inactive","2021/5/4","還押","Custody"
+"M32-2","M32","天恒","TIN HENG",2,"陳嘉進","CHAN KA CHUN",,,,,37,"False",,,,,
+"M32-3","M32","天恒","TIN HENG",3,"陳志成","CHAN CHI SHING STANLEY",,,,,37,"False",,,,,
+"M32-4","M32","天恒","TIN HENG",4,"陸頌雄","LUK CHUNG HUNG",,,"工聯會","FTU",3731,"False",,,,,
+"M33-1","M33","宏逸","WANG YAT",1,"巫啟航","MO KAI HONG",,,,,5100,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"M33-2","M33","宏逸","WANG YAT",2,"曹健科","CHO KIN FOR","草哥",,,,204,"False",,,,,
+"M33-3","M33","宏逸","WANG YAT",3,"姚國威","YIU KWOK WAI",,,,,2849,"False",,,,,
+"M33-4","M33","宏逸","WANG YAT",4,"關嘉麗","KWAN KA LAI",,,,,51,"False",,,,,
+"M34-1","M34","屏山北","PING SHAN NORTH",1,"羅庭輝","LAW TING FAI",,,,,2219,"False",,,,,
+"M34-2","M34","屏山北","PING SHAN NORTH",2,"楊家安","YOUNG KA ON",,,,,2221,"True","Pro-Beijing","Active",,,
+"M35-1","M35","錦綉花園","FAIRVIEW PARK",1,"陳生發","CHAN SANG FAT",,,,,77,"False",,,,,
+"M35-2","M35","錦綉花園","FAIRVIEW PARK",2,"張弓發","CHEUNG KUNG FAT",,,,,3211,"False",,,,,
+"M35-3","M35","錦綉花園","FAIRVIEW PARK",3,"杜嘉倫","TO KA LUN",,,,,4329,"True","Pro-Democracy","Inactive","2021/4/7","辭職","Resign"
+"M35-4","M35","錦綉花園","FAIRVIEW PARK",4,"黃頴灝","WONG WING HO ALLAN",,,"獨立","With Chinese version only",195,"False",,,,,
+"M36-1","M36","新田","SAN TIN",1,"文貴旗","MAN KWAI KI",,,,,160,"False",,,,,
+"M36-2","M36","新田","SAN TIN",2,"周振勤","CHAU CHUN KUN",,,,,161,"False",,,,,
+"M36-3","M36","新田","SAN TIN",3,"徐啓龍","TSUI KAI LUNG",,,,,2032,"False",,,,,
+"M36-4","M36","新田","SAN TIN",4,"文富穩","MAN FU WAN",,,,,2257,"True","Pro-Beijing","Active",,,
+"M37-1","M37","錦田","KAM TIN",1,"鄧卓然","TANG CHEUK YIN",,,,,2293,"False",,,,,
+"M37-2","M37","錦田","KAM TIN",2,"李頌慈","LI CHUNG CHI",,"CHRIS",,,2569,"True","Pro-Democracy","Active",,,
+"M38-1","M38","八鄉北","PAT HEUNG NORTH",1,"鄧志光","TANG CHI KWONG",,,,,1724,"False",,,,,
+"M38-2","M38","八鄉北","PAT HEUNG NORTH",2,"李根銘","LEE KAN MING",,,"獨立候選人","INDEPENDENT CANDIDATE",1833,"False",,,,,
+"M38-3","M38","八鄉北","PAT HEUNG NORTH",3,"鄧鎔耀","TANG YUNG YIU RONNIE",,,,,1848,"True","Pro-Beijing","Active",,,
+"M39-1","M39","八鄉南","PAT HEUNG SOUTH",1,"黎永添","LAI WING TIM",,,,,3799,"True","Pro-Beijing","Active",,,
+"M39-2","M39","八鄉南","PAT HEUNG SOUTH",2,"徐卓然","CHUI CHEUK YIN JO",,,,,41,"False",,,,,
+"M39-3","M39","八鄉南","PAT HEUNG SOUTH",3,"朱凱廸","CHU HOI DICK EDDIE",,,"朱凱廸新西團隊，民主動力","Team of Chu Hoi Dick NTW, Power for Democracy",3435,"False",,,,,
+"N01-1","N01","聯和墟","LUEN WO HUI",1,"曾興隆","TSANG HING LUNG",,,,,3491,"False",,,,,
+"N01-2","N01","聯和墟","LUEN WO HUI",2,"周錦豪","CHOW KAM HO",,,,,4491,"True","Pro-Democracy","Active",,,
+"N01-3","N01","聯和墟","LUEN WO HUI",3,"江美婷","KONG MEI TING",,,,,42,"False",,,,,
+"N02-1","N02","粉嶺市","FANLING TOWN",1,"葉曜丞","YIP YIU SHING CHRIS",,,,,290,"False",,,,,
+"N02-2","N02","粉嶺市","FANLING TOWN",2,"黃凱盈","WONG HOI YING",,,,,2761,"True","Pro-Democracy","Active",,,
+"N02-3","N02","粉嶺市","FANLING TOWN",3,"彭振聲","PANG CHUN SING GEORGE",,,,,1830,"False",,,,,
+"N03-1","N03","祥華","CHEUNG WAH",1,"黃嘉浩","WONG KA HO",,,"獨立無黨派","Independent",1381,"False",,,,,
+"N03-2","N03","祥華","CHEUNG WAH",2,"林智洋","LAM CHI YEUNG",,,,,2678,"False",,,,,
+"N03-3","N03","祥華","CHEUNG WAH",3,"陳旭明","CHAN YUK MING",,,,,4446,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"N04-1","N04","華都","WAH DO",1,"張浚偉","CHEUNG CHUN WAI",,,,,5288,"True","Pro-Democracy","Active",,,
+"N04-2","N04","華都","WAH DO",2,"姚銘","YIU MING",,,,,3724,"False",,,,,
+"N05-1","N05","華明","WAH MING",1,"潘孝汶","PUN HAU MAN",,,,,3124,"False",,,,,
+"N05-2","N05","華明","WAH MING",2,"劉嘉豪","LAU KA HO",,,,,214,"False",,,,,
+"N05-3","N05","華明","WAH MING",3,"陳惠達","CHAN WAI TAT",,,"新民主同盟","Neo Democrats",5314,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"N06-1","N06","欣盛","YAN SHING",1,"林淑","LAM SHUK CHING",,,,,5939,"True","Pro-Democracy","Inactive","2021/5/11","辭職","Resign"
+"N06-2","N06","欣盛","YAN SHING",2,"劉國勳","LAU KWOK FAN",,,,,4329,"False",,,,,
+"N07-1","N07","粉嶺南","FANLING SOUTH",1,"李立航","LEE LAP HONG ALMUSTAFA",,,,,668,"False",,,,,
+"N07-2","N07","粉嶺南","FANLING SOUTH",2,"何樹光","HO SHU KWONG RAYMOND",,,,,2507,"False",,,,,
+"N07-3","N07","粉嶺南","FANLING SOUTH",3,"張正皓","CHEUNG CHING HO FRANCO",,,,,2735,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"N08-1","N08","盛福","SHING FUK",1,"温和達","WAN WO TAT WARWICK",,,,,3181,"True","Pro-Beijing","Active",,,
+"N08-2","N08","盛福","SHING FUK",2,"黃良喜","WONG LEUNG HI",,,,,1754,"False",,,,,
+"N08-3","N08","盛福","SHING FUK",3,"呂智恆","LUI CHI HANG HENDRICK",,,,,2656,"False",,,,,
+"N09-1","N09","清河","CHING HO",1,"鄭仕蘭","CHENG SHI LAN",,,,,512,"False",,,,,
+"N09-2","N09","清河","CHING HO",2,"袁浩倫","YUEN HO LUN","海袁",,,,3944,"True","Pro-Democracy","Inactive","2021/4/20","辭職","Resign"
+"N09-3","N09","清河","CHING HO",3,"藍偉良","LARM WAI LEUNG",,,,,2871,"False",,,,,
+"N10-1","N10","御太","YU TAI",1,"曾勁聰","TSANG KING CHUNG KENT",,,,,2981,"False",,,,,
+"N10-2","N10","御太","YU TAI",2,"陳梓峯","CHAN VINCENT CHI FUNG",,,,,3378,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"N11-1","N11","上水鄉郊","SHEUNG SHUI RURAL",1,"侯福達","HAU FUK TAT SIMON",,,,,3371,"True","Pro-Beijing","Active",,,
+"N11-2","N11","上水鄉郊","SHEUNG SHUI RURAL",2,"侯曉彤","HAU HIU TUNG",,,,,2589,"False",,,,,
+"N12-1","N12","彩園","CHOI YUEN",1,"林子琼","LAM TSZ KING",,,"民主黨","THE DEMOCRATIC PARTY",4295,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"N12-2","N12","彩園","CHOI YUEN",2,"蘇西智","SO SAI CHI",,,,,3305,"False",,,,,
+"N12-3","N12","彩園","CHOI YUEN",3,"黃成智","WONG SING CHI",,,,,177,"False",,,,,
+"N13-1","N13","石湖墟","SHEK WU HUI",1,"梁金成","LEUNG KAM SHING CLARENCE RONALD","金金","KAM KAM","無黨派候選人","Non-affiliated Candidate",469,"False",,,,,
+"N13-2","N13","石湖墟","SHEK WU HUI",2,"孔永業","HUNG WING YIP",,,,,2684,"False",,,,,
+"N13-3","N13","石湖墟","SHEK WU HUI",3,"林卓廷","LAM CHEUK TING",,,"民主黨","THE DEMOCRATIC PARTY",3926,"True","Pro-Democracy","Inactive","2021/3/31","還押","Custody"
+"N14-1","N14","天平西","TIN PING WEST",1,"黃宏滔","WONG WANG TO",,,,,2925,"False",,,,,
+"N14-2","N14","天平西","TIN PING WEST",2,"郭㙟豐","KWOK LONG FUNG",,,"民主黨","The Democratic Party",4470,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"N15-1","N15","鳳翠","FUNG TSUI",1,"廖興洪","LIU HING HUNG",,,,,2963,"False",,,,,
+"N15-2","N15","鳳翠","FUNG TSUI",2,"蔣旻正","CHIANG MAN CHING",,,,,3630,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"N16-1","N16","沙打","SHA TA",1,"蔡旭威","CHOY YUK WAI LESTER JOHN",,,,,2242,"False",,,,,
+"N16-2","N16","沙打","SHA TA",2,"高維基","KO WAI KEI",,,,,3143,"True","Pro-Beijing","Active",,,
+"N17-1","N17","天平東","TIN PING EAST",1,"呂玉山","LUI YUK SHAN",,,,,143,"False",,,,,
+"N17-2","N17","天平東","TIN PING EAST",2,"劉其烽","LAU KI FUNG",,,,,4513,"True","Pro-Democracy","Inactive","2021/7/5","辭職","Resign"
+"N17-3","N17","天平東","TIN PING EAST",3,"柯倩儀","OR SIN YI WINDY",,,,,2500,"False",,,,,
+"N18-1","N18","皇后山","QUEEN'S HILL",1,"鄧振健","TANG CHUN KIN",,,,,549,"False",,,,,
+"N18-2","N18","皇后山","QUEEN'S HILL",2,"鄧根年","TANG KUN NIN TONY",,,,,2054,"False",,,,,
+"N18-3","N18","皇后山","QUEEN'S HILL",3,"羅庭德","LAW TING TAK",,,,,2969,"True","Pro-Democracy","Active",,,
+"P01-1","P01","大埔墟","TAI PO HUI",1,"林名溢","LAM MING YAT",,,"大埔民主聯盟","Tai Po Democratic Alliance",2466,"True","Pro-Democracy","Inactive","2021/5/11","辭職","Resign"
+"P01-2","P01","大埔墟","TAI PO HUI",2,"張國慧","CHEUNG KWOK WAI",,"WILLIAM","獨立候選人","Independent Candidate",1886,"False",,,,,
+"P02-1","P02","頌汀","CHUNG TING",1,"文念志","MAN NIM CHI",,,"區政聯盟","Community Alliance",4454,"True","Pro-Democracy","Inactive","2021/7/13","辭職","Resign"
+"P02-2","P02","頌汀","CHUNG TING",2,"譚榮勳","TAM WING FUN ERIC","譚SIR",,,,2503,"False",,,,,
+"P03-1","P03","大埔中","TAI PO CENTRAL",1,"梅少峰","MUI SIU FUNG",,,,,2136,"False",,,,,
+"P03-2","P03","大埔中","TAI PO CENTRAL",2,"區鎮樺","AU CHUN WAH",,,"區政聯盟","Community Alliance",4279,"True","Pro-Democracy","Inactive","2021/7/21","辭職","Resign"
+"P04-1","P04","大元","TAI YUEN",1,"鄭俊平","CHENG CHUN PING",,,,,2135,"False",,,,,
+"P04-2","P04","大元","TAI YUEN",2,"區鎮濠","AU CHUN HO",,,"區政聯盟","Community Alliance",3693,"True","Pro-Democracy","Active",,,
+"P04-3","P04","大元","TAI YUEN",3,"蘇馬俊","SO MA TSUN",,,,,442,"False",,,,,
+"P04-4","P04","大元","TAI YUEN",4,"黃定欣","WONG TING YAN COLOR",,,,,118,"False",,,,,
+"P05-1","P05","富亨","FU HENG",1,"任萬全","YAM MAN CHUEN",,,,,2161,"False",,,,,
+"P05-2","P05","富亨","FU HENG",2,"胡綽謙","WU CHEUK HIM",,,,,2700,"False",,,,,
+"P05-3","P05","富亨","FU HENG",3,"何偉霖","HO WAI LAM",,,,,3435,"True","Pro-Democracy","Active",,,
+"P06-1","P06","怡富","YEE FU",1,"任啟邦","YAM KAI BONG",,,,,6028,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"P06-2","P06","怡富","YEE FU",2,"羅志平","LO CHI PING",,,,,2479,"False",,,,,
+"P07-1","P07","富明新","FU MING SUN",1,"關永業","KWAN WING YIP",,,,,4670,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"P07-2","P07","富明新","FU MING SUN",2,"吳卓穎","NG CHEUK WING",,,,,1962,"False",,,,,
+"P08-1","P08","廣福及寶湖","KWONG FUK & PLOVER COVE",1,"連桷璋","LIN KOK CHEUNG DALU",,,"大埔民主聯盟","Tai Po Democratic Alliance",3768,"True","Pro-Democracy","Inactive","2021/5/11","辭職","Resign"
+"P08-2","P08","廣福及寶湖","KWONG FUK & PLOVER COVE",2,"黃碧嬌","WONG PIK KIU",,,,,2804,"False",,,,,
+"P08-3","P08","廣福及寶湖","KWONG FUK & PLOVER COVE",3,"郭樹仁","KWOK SHU YAN",,,,,31,"False",,,,,
+"P09-1","P09","宏福","WANG FUK",1,"胡健民","WOO KIN MAN CLEMENT",,,,,3254,"False",,,,,
+"P09-2","P09","宏福","WANG FUK",2,"姚鈞豪","YIU KWAN HO",,,"區政聯盟","Community Alliance",4266,"True","Pro-Democracy","Active",,,
+"P10-1","P10","大埔滘","TAI PO KAU",1,"陳笑權","CHAN SIU KUEN",,,"無","Nil",2902,"False",,,,,
+"P10-2","P10","大埔滘","TAI PO KAU",2,"毛家俊","MO KA CHUN PATRICK",,,"大埔民主聯盟","Tai Po Democratic Alliance",3346,"True","Pro-Democracy","Active",,,
+"P11-1","P11","運頭塘","WAN TAU TONG",1,"余智榮","YU CHI WING",,"KEN YU",,,3603,"False",,,,,
+"P11-2","P11","運頭塘","WAN TAU TONG",2,"黃兆健","WONG SIU KIN",,,"熱血公民 ","Civic Passion",5541,"True","Pro-Democracy","Active",,,
+"P12-1","P12","新富","SAN FU",1,"羅曉楓","LO HIU FUNG",,,,,3424,"False",,,,,
+"P12-2","P12","新富","SAN FU",2,"胡耀昌","WU YIU CHEONG",,,"新民主同盟","Neo Democrats",4435,"True","Pro-Democracy","Inactive","2021/5/10","辭職","Resign"
+"P13-1","P13","林村谷","LAM TSUEN VALLEY",1,"陳灶良","CHAN CHO LEUNG",,,"香港經濟民生聯盟","With Chinese version only",3321,"False",,,,,
+"P13-2","P13","林村谷","LAM TSUEN VALLEY",2,"陳振哲","CHAN CHUN CHIT RICHARD",,,,,3605,"True","Pro-Democracy","Active",,,
+"P14-1","P14","寶雅","PO NGA",1,"葉俊傑","YIP CHUN KIT",,,,,3300,"False",,,,,
+"P14-2","P14","寶雅","PO NGA",2,"周炫瑋","CHOW YUEN WAI",,,"新民主同盟","Neo Democrats",6657,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"P15-1","P15","太和","TAI WO",1,"鄭俊和","CHENG CHUN WO",,,,,3093,"False",,,,,
+"P15-2","P15","太和","TAI WO",2,"陳蔚嘉","CHAN WAI KA OLIVE","嘉嘉",,"獨立民主派","Independent Democrats",4370,"True","Pro-Democracy","Active",,,
+"P16-1","P16","舊墟及太湖","OLD MARKET & SERENITY",1,"劉文杰","LAU MAN KIT",,,,,2310,"False",,,,,
+"P16-2","P16","舊墟及太湖","OLD MARKET & SERENITY",2,"劉勇威","LAU YUNG WAI","阿威",,"獨立民主派","Independent Democrats",5383,"True","Pro-Democracy","Active",,,
+"P17-1","P17","康樂園","HONG LOK YUEN",1,"鄧銘泰","TANG MING TAI PATRICK",,,,,2419,"False",,,,,
+"P17-2","P17","康樂園","HONG LOK YUEN",2,"姚躍生","YIU YEUK SANG ZERO","阿生","MANSON",,,3302,"True","Pro-Democracy","Inactive","2021/5/16","辭職","Resign"
+"P18-1","P18","船灣","SHUEN WAN",1,"蘇達良","SO TAT LEUNG",,,,,3583,"True","Pro-Democracy","Active",,,
+"P18-2","P18","船灣","SHUEN WAN",2,"劉志成","LAU CHEE SING","博士","DR.",,,3444,"False",,,,,
+"P19-1","P19","西貢北","SAI KUNG NORTH",1,"譚爾培","TAM YI PUI",,"BEN","獨立候選人","Independent",2730,"True","Pro-Democracy","Active",,,
+"P19-2","P19","西貢北","SAI KUNG NORTH",2,"李華光","LI WAH KWONG REX",,,"經民聯","BPA",1964,"False",,,,,
+"Q01-1","Q01","西貢市中心","SAI KUNG CENTRAL",1,"吳仕福","NG SZE FUK",,,"民建聯","DAB",2137,"False",,,,,
+"Q01-2","Q01","西貢市中心","SAI KUNG CENTRAL",2,"梁衍忻","LEUNG HIN YAN",,"ZOE","民主動力, 西貢鄉民","Power for Democracy, Sai Kung Commons",2550,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"Q02-1","Q02","白沙灣","PAK SHA WAN",1,"何偉航","HO STANLEY WAI HONG",,,"工黨丶民主動力丶西貢鄉民","Labour Party, Power of Democracy, Sai Kung Commons",2805,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"Q02-2","Q02","白沙灣","PAK SHA WAN",2,"陳權軍","CHAN KUEN KWAN",,,,,2109,"False",,,,,
+"Q03-1","Q03","西貢離島","SAI KUNG ISLANDS",1,"陳嘉琳","CHAN KA LAM",,"DEBBY","民主動力，西貢鄉民","Power for Democracy, Sai Kung Commons",2127,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"Q03-2","Q03","西貢離島","SAI KUNG ISLANDS",2,"李家良","LI KA LEUNG PHILIP",,"PHILIP LI",,,1552,"False",,,,,
+"Q04-1","Q04","坑口東","HANG HAU EAST",1,"劉偉章","LAU WAI CHEUNG PETER",,,,,1559,"False",,,,,
+"Q04-2","Q04","坑口東","HANG HAU EAST",2,"劉敏財","LAU MAN CHOI NEWMAN",,,,,323,"False",,,,,
+"Q04-3","Q04","坑口東","HANG HAU EAST",3,"李賢浩","LEE YIN HO RYAN",,,,,1850,"True","Pro-Democracy","Active",,,
+"Q05-1","Q05","坑口西","HANG HAU WEST",1,"余浚寧","YU TSUN NING",,,,,3089,"True","Pro-Democracy","Active",,,
+"Q05-2","Q05","坑口西","HANG HAU WEST",2,"邱浩麟","YAU HO LUN",,,,,2078,"False",,,,,
+"Q06-1","Q06","彩健","CHOI KIN",1,"何民傑","HO MAN KIT RAYMOND",,,,,1989,"False",,,,,
+"Q06-2","Q06","彩健","CHOI KIN",2,"黃炳雄","WONG PING HUNG ADAM",,,,,434,"False",,,,,
+"Q06-3","Q06","彩健","CHOI KIN",3,"陳緯烈","CHAN WAI LIT",,,,,4724,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"Q06-4","Q06","彩健","CHOI KIN",4,"黃恩琪","WONG YAN KET",,,,,88,"False",,,,,
+"Q06-5","Q06","彩健","CHOI KIN",5,"戴家柱","TAI KA CHU RICHIE",,,,,1306,"False",,,,,
+"Q07-1","Q07","健明","KIN MING",1,"何博浩","HO POK HO ROCCO",,,,,1953,"False",,,,,
+"Q07-2","Q07","健明","KIN MING",2,"梁里","LEUNG LI",,,,,5414,"True","Pro-Democracy","Inactive","2021/5/31","辭職","Resign"
+"Q08-1","Q08","都善","DO SHIN",1,"莊榮輝","CHONG WING FAI WINFIELD",,,"民主黨","The Democratic Party",1741,"False",,,,,
+"Q08-2","Q08","都善","DO SHIN",2,"李栢棠","LI PAK TONG",,,,,927,"False",,,,,
+"Q08-3","Q08","都善","DO SHIN",3,"張展鵬","CHEUNG CHIN PANG",,,,,2568,"True","Pro-Beijing","Active",,,
+"Q09-1","Q09","維景","WAI KING",1,"黃成光","WONG SHING KWONG",,"JACK",,,70,"False",,,,,
+"Q09-2","Q09","維景","WAI KING",2,"陳繼偉","CHAN KAI WAI",,,"獨立候選人","Independent Candidate",3021,"False",,,,,
+"Q09-3","Q09","維景","WAI KING",3,"葉子祈","YIP BRANDON KENNETH",,,,,3199,"True","Pro-Democracy","Inactive","2021/7/11","辭職","Resign"
+"Q10-1","Q10","海晉","HOI CHUN",1,"劉偉卓","LAU WAI CHEUK",,,,,17,"False",,,,,
+"Q10-2","Q10","海晉","HOI CHUN",2,"趙志民","CHIU CHI MAN",,,,,240,"False",,,,,
+"Q10-3","Q10","海晉","HOI CHUN",3,"黎煒棠","LAI WAI TONG",,"IVAN","新民主同盟","Neo-Democrats",2099,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"Q10-4","Q10","海晉","HOI CHUN",4,"何金榮","HO KAM WING",,,,,234,"False",,,,,
+"Q10-5","Q10","海晉","HOI CHUN",5,"林樂儀","LAM LOK YEE",,,,,1350,"False",,,,,
+"Q11-1","Q11","寶怡","PO YEE",1,"朱琳","CHU LAM",,,,,2480,"False",,,,,
+"Q11-2","Q11","寶怡","PO YEE",2,"謝正楓","TSE CHING FUNG",,,,,4121,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"Q11-3","Q11","寶怡","PO YEE",3,"黃向賢","WONG HEUNG YIN",,,"獨立候選人","Independent Candidate",255,"False",,,,,
+"Q12-1","Q12","富君","FU KWAN",1,"黃遠康","WONG YUEN HONG",,,,,3123,"False",,,,,
+"Q12-2","Q12","富君","FU KWAN",2,"陸平才","LUK PING CHOI",,,,,4948,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"Q13-1","Q13","澳唐","O TONG",1,"林素蔚","LAM SO WAI",,,"獨立候選人","Independent Candidate",2762,"False",,,,,
+"Q13-2","Q13","澳唐","O TONG",2,"呂文光","LUI MAN KWONG",,,"新民主同盟","Neo Democrats",4722,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"Q14-1","Q14","尚德","SHEUNG TAK",1,"簡兆祺","KAN SIU KEI",,,"工聯會","With Chinese version only",3527,"False",,,,,
+"Q14-2","Q14","尚德","SHEUNG TAK",2,"李嘉睿","LEE KA YUI",,,,,5585,"True","Pro-Democracy","Active",,,
+"Q15-1","Q15","廣明","KWONG MING",1,"柯耀林","OR YIU LAM RICKY",,,,,5240,"True","Pro-Democracy","Active",,,
+"Q15-2","Q15","廣明","KWONG MING",2,"莊元苳","CHONG YUEN TUNG",,,,,3985,"False",,,,,
+"Q16-1","Q16","康景","HONG KING",1,"林少忠","LAM SIU CHUNG FRANKIE",,,,,4037,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"Q16-2","Q16","康景","HONG KING",2,"陳健浚","CHAN KIN CHUN KEN",,,,,2140,"False",,,,,
+"Q17-1","Q17","翠林","TSUI LAM",1,"譚領律","TAM LANNY",,,,,3389,"False",,,,,
+"Q17-2","Q17","翠林","TSUI LAM",2,"蔡明禧","CHOI MING HEI","蔡仔","DARYL","獨立民主派","Independent Democrats",4222,"True","Pro-Democracy","Active",,,
+"Q18-1","Q18","寶林","PO LAM",1,"馮君安","FUNG KWAN ON",,,,,4599,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"Q18-2","Q18","寶林","PO LAM",2,"譚竹君","TAM CHUK KWAN",,,,,3385,"False",,,,,
+"Q19-1","Q19","欣英","YAN YING",1,"鍾錦麟","CHUNG KAM LUN",,"BEN",,,5629,"True","Pro-Democracy","Inactive","2021/5/10","還押","Custody"
+"Q19-2","Q19","欣英","YAN YING",2,"李國邦","LEE KWOK PONG",,,,,3193,"False",,,,,
+"Q20-1","Q20","慧茵","WAI YAN",1,"秦海城","CHUN HOI SHING",,,"新民主同盟","Neo Democrats",3928,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"Q20-2","Q20","慧茵","WAI YAN",2,"吳家竣","NG ANDREW KA CHUN",,,,,2486,"False",,,,,
+"Q21-1","Q21","運亨","WAN HANG",1,"劉志成","LAU CHI SHING",,,,,106,"False",,,,,
+"Q21-2","Q21","運亨","WAN HANG",2,"范國威","FAN GARY KWOK WAI",,,,,3755,"True","Pro-Democracy","Inactive","2021/3/16","還押","Custody"
+"Q21-3","Q21","運亨","WAN HANG",3,"戴卓然","TAI CHEUK YIN",,,,,43,"False",,,,,
+"Q21-4","Q21","運亨","WAN HANG",4,"楊聰","YEUNG CHUNG",,,"獨立","Independent",1859,"False",,,,,
+"Q22-1","Q22","景林","KING LAM",1,"張偉超","CHEUNG WAI CHIU",,,,,4265,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"Q22-2","Q22","景林","KING LAM",2,"温啟明","WAN KAI MING",,,,,3233,"False",,,,,
+"Q22-3","Q22","景林","KING LAM",3,"林咏然","LAM WING YIN",,,,,788,"False",,,,,
+"Q23-1","Q23","厚德","HAU TAK",1,"王卓雅","WONG CHEUK NGA",,,,,5244,"True","Pro-Democracy","Active",,,
+"Q23-2","Q23","厚德","HAU TAK",2,"莫繡安","MOK RUBY",,,,,3579,"False",,,,,
+"Q24-1","Q24","富藍","FU NAM",1,"陳博智","CHAN POK CHI",,,"民建聯","DAB",3606,"False",,,,,
+"Q24-2","Q24","富藍","FU NAM",2,"陳耀初","CHAN YIU CHOR ANDREW",,,,,4743,"True","Pro-Democracy","Active",,,
+"Q25-1","Q25","德明","TAK MING",1,"鄭仲文","CHENG CHUNG MAN",,,,,5420,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"Q25-2","Q25","德明","TAK MING",2,"陳志豪","CHAN CHI HO",,,,,4217,"False",,,,,
+"Q26-1","Q26","南安","NAM ON",1,"周賢明","CHAU YIN MING FRANCIS",,,"獨立候選人","Independent Candidate",5524,"True","Pro-Democracy","Active",,,
+"Q26-2","Q26","南安","NAM ON",2,"陳宇婷","CHEN YUTING",,,,,2609,"False",,,,,
+"Q27-1","Q27","軍寶","KWAN PO",1,"黎銘澤","LAI MING CHAK",,,"新民主同盟","Neo Democrats",3346,"True","Pro-Democracy","Inactive","2021/4/19","辭職","Resign"
+"Q27-2","Q27","軍寶","KWAN PO",2,"李嘉欣","LI KA YAN",,,"無黨派候選人","Non-affiliated Candidate",2016,"False",,,,,
+"Q28-1","Q28","環保北","WAN PO NORTH",1,"方國珊","FONG KWOK SHAN CHRISTINE","哪吒",,"獨立候選人","Independent Candidate",2998,"True","Pro-Beijing","Active",,,
+"Q28-2","Q28","環保北","WAN PO NORTH",2,"何梓聰","HO TSZ CHUNG",,,"無黨派候選人","Non-affiliated candidate",2828,"False",,,,,
+"Q28-3","Q28","環保北","WAN PO NORTH",3,"陳展浚","CHAN CHIN CHUN",,"CYRUS",,,943,"False",,,,,
+"Q29-1","Q29","環保南","WAN PO SOUTH",1,"姜新華","KAN SUN WA DAVID",,"SHIRDY",,,2063,"False",,,,,
+"Q29-2","Q29","環保南","WAN PO SOUTH",2,"張美雄","CHEUNG MEI HUNG",,"CHRIS",,,3577,"True","Pro-Beijing","Active",,,
+"Q29-3","Q29","環保南","WAN PO SOUTH",3,"吳可淇","NG HO KEI",,,,,1139,"False",,,,,
+"R01-1","R01","沙田市中心","SHA TIN TOWN CENTRE",1,"衞慶祥","WAI HING CHEUNG",,,"民主派區選聯盟","DEMOCRATIC COALITION FOR DC ELECTION",4960,"True","Pro-Democracy","Active",,,
+"R01-2","R01","沙田市中心","SHA TIN TOWN CENTRE",2,"鄧肇峰","TANG SIU FUNG CALVIN",,,,,2336,"False",,,,,
+"R02-1","R02","瀝源","LEK YUEN",1,"黃宇翰","WONG YUE HON",,,,,2443,"False",,,,,
+"R02-2","R02","瀝源","LEK YUEN",2,"岑子杰","SHAM TSZ KIT",,"JIMMY","社會民主連線","League of Social Democrats",3283,"True","Pro-Democracy","Inactive","2021/7/8","還押","Custody"
+"R03-1","R03","禾輋邨","WO CHE ESTATE",1,"余倩雯","YUE SHIN MAN ANNA",,,"民建聯","DAB",3175,"False",,,,,
+"R03-2","R03","禾輋邨","WO CHE ESTATE",2,"李志宏","LI CHI WANG",,,,,4837,"True","Pro-Democracy","Active",,,
+"R03-3","R03","禾輋邨","WO CHE ESTATE",3,"劉鍏霖","LAU WAI LAM WILLIAM",,,,,174,"False",,,,,
+"R04-1","R04","第一城","CITY ONE",1,"黃嘉榮","WONG KA WING",,,,,2753,"False",,,,,
+"R04-2","R04","第一城","CITY ONE",2,"黃文萱","WONG MAN HUEN",,,,,5122,"True","Pro-Democracy","Inactive","2021/6/4","辭職","Resign"
+"R05-1","R05","愉城","YUE SHING",1,"石威廉","SHEK WILLIAM",,,,,4406,"True","Pro-Democracy","Active",,,
+"R05-2","R05","愉城","YUE SHING",2,"梁家輝","LEUNG KA FAI",,,,,2668,"False",,,,,
+"R06-1","R06","王屋","WONG UK",1,"黎梓恩","LAI TSZ YAN",,,,,4440,"True","Pro-Democracy","Active",,,
+"R06-2","R06","王屋","WONG UK",2,"梁志偉","LEUNG CHI WAI",,,,,2215,"False",,,,,
+"R07-1","R07","沙角","SHA KOK",1,"夏劍琨","HA KIM KWAN",,,,,2930,"False",,,,,
+"R07-2","R07","沙角","SHA KOK",2,"陳兆陽","CHAN BILLY SHIU YEUNG",,,"獨立民主派 ","Independent Democrat",4321,"True","Pro-Democracy","Inactive","2021/7/7","辭職","Resign"
+"R07-3","R07","沙角","SHA KOK",3,"張婉盈","CHEUNG YUEN YING",,,"獨立民主派","Independent Democrat",42,"False",,,,,
+"R08-1","R08","博康","POK HONG",1,"郭宣彤","GUO XUANTONG",,,,,2302,"False",,,,,
+"R08-2","R08","博康","POK HONG",2,"趙柱幫","CHIU CHU PONG",,,"民主動力","Power for Democracy",6421,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"R09-1","R09","水泉澳","SHUI CHUEN O",1,"鄧家彪","TANG KA PIU",,,,,3069,"False",,,,,
+"R09-2","R09","水泉澳","SHUI CHUEN O",2,"雷奕芳","LUI YICK FONG",,,,,14,"False",,,,,
+"R09-3","R09","水泉澳","SHUI CHUEN O",3,"盧德明","LO TAK MING",,,,,3101,"True","Pro-Democracy","Active",,,
+"R10-1","R10","乙泉","JAT CHUEN",1,"梁昊佳","LEUNG HO KAI",,,,,2673,"False",,,,,
+"R10-2","R10","乙泉","JAT CHUEN",2,"丘文俊","YAU MAN CHUN",,,"獨立民主派","Independent Democrat",5280,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R11-1","R11","秦豐","CHUN FUNG",1,"魏志偉","NGAI CHI WAI",,,,,2174,"False",,,,,
+"R11-2","R11","秦豐","CHUN FUNG",2,"李詩詠","LI SZE WING",,,,,43,"False",,,,,
+"R11-3","R11","秦豐","CHUN FUNG",3,"陳諾恒","CHAN NOK HANG",,,,,4732,"True","Pro-Democracy","Active",,,
+"R12-1","R12","新田圍","SUN TIN WAI",1,"何偉俊","HO WAI CHUN",,,,,2737,"False",,,,,
+"R12-2","R12","新田圍","SUN TIN WAI",2,"程張迎","CHING CHEUNG YING",,,"民主黨","DEMOCRATIC PARTY",4212,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R13-1","R13","翠田","CHUI TIN",1,"許銳宇","HUI YUI YU",,,,,4552,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"R13-2","R13","翠田","CHUI TIN",2,"林玉華","LAM YUK WA",,,,,2454,"False",,,,,
+"R14-1","R14","顯嘉","HIN KA",1,"林松茵","LAM CHUNG YAN",,,,,2547,"False",,,,,
+"R14-2","R14","顯嘉","HIN KA",2,"謝玉梅","TZE YUK MUI",,"BONNIE",,,203,"False",,,,,
+"R14-3","R14","顯嘉","HIN KA",3,"張宇添","CHEUNG YU TIM",,,"獨立民主派 ","Independent Democrat ",1246,"False",,,,,
+"R14-4","R14","顯嘉","HIN KA",4,"倫國輝","LUEN KWOK FAI",,,,,72,"False",,,,,
+"R14-5","R14","顯嘉","HIN KA",5,"陳運通","CHAN WAN TUNG",,,,,3101,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"R15-1","R15","下城門","LOWER SHING MUN",1,"黃浩鋒","WONG HO FUNG",,"KEN","民主動力","Power for Democracy ",3894,"True","Pro-Democracy","Active",,,
+"R15-2","R15","下城門","LOWER SHING MUN",2,"唐學良","TONG HOK LEUNG",,,"新民黨 / 公民力量","New People's Party / Civil Force",3124,"False",,,,,
+"R16-1","R16","雲城","WAN SHING",1,"張德榮","CHEUNG TAK WING",,,,,212,"False",,,,,
+"R16-2","R16","雲城","WAN SHING",2,"張慶樺","CHEUNG HING WA",,,,,3869,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R16-3","R16","雲城","WAN SHING",3,"羅健勤","LAW KIN KAN",,,,,2745,"False",,,,,
+"R17-1","R17","徑口","KENG HAU",1,"張柏源","CHEUNG PAK YUEN",,,,,3443,"False",,,,,
+"R17-2","R17","徑口","KENG HAU",2,"吳錦雄","NG KAM HUNG",,,,,5453,"True","Pro-Democracy","Active",,,
+"R17-3","R17","徑口","KENG HAU",3,"駱松佑","LOK CHUNG YAU",,,,,176,"False",,,,,
+"R18-1","R18","田心","TIN SUM",1,"曾杰","TSANG KIT",,,,,3399,"True","Pro-Democracy","Inactive","2021/7/15","辭職","Resign"
+"R18-2","R18","田心","TIN SUM",2,"潘國山","PUN KWOK SHAN",,,,,3078,"False",,,,,
+"R19-1","R19","翠嘉","CHUI KA",1,"李世鴻","LI SAI HUNG",,,,,4854,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"R19-2","R19","翠嘉","CHUI KA",2,"盧俊文","LO CHUN MAN OSCAR",,,,,33,"False",,,,,
+"R19-3","R19","翠嘉","CHUI KA",3,"林宇星","LAM YU SING","星仔",,"公民力量、新民黨","Civic Force, New People's Party",3385,"False",,,,,
+"R20-1","R20","大圍","TAI WAI",1,"吳定霖","NG TING LAM KUDAMA",,,"民主黨 / 民主動力","The Democratic Party / Power for Democracy",4198,"True","Pro-Democracy","Active",,,
+"R20-2","R20","大圍","TAI WAI",2,"袁桂禧","YUEN KWAI HEI",,,,,54,"False",,,,,
+"R20-3","R20","大圍","TAI WAI",3,"鄒家成","CHOW KA SHING",,"OWEN",,,748,"False",,,,,
+"R20-4","R20","大圍","TAI WAI",4,"董健莉","TUNG KIN LEI","阿莉",,,,4114,"False",,,,,
+"R21-1","R21","松田","CHUNG TIN",1,"姚皓兒","YIU HO YEE",,,"民建聯","DAB",2815,"False",,,,,
+"R21-2","R21","松田","CHUNG TIN",2,"黃學禮","WONG HOK LAI",,,,,4313,"True","Pro-Democracy","Active",,,
+"R22-1","R22","穗禾","SUI WO",1,"麥梓健","MAK TSZ KIN",,,,,4054,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"R22-2","R22","穗禾","SUI WO",2,"陳壇丹","CHAN TAN TAN",,,"民建聯","DAB",2879,"False",,,,,
+"R23-1","R23","火炭","FO TAN",1,"龐愛蘭","PONG SCARLETT OI LAN",,,"獨立候選人","Independent Candidate",2716,"False",,,,,
+"R23-2","R23","火炭","FO TAN",2,"雷啟榮","LUI KAI WING",,,,,3550,"True","Pro-Democracy","Inactive","2021/7/14","辭職","Resign"
+"R24-1","R24","駿馬","CHUN MA",1,"周曉嵐","CHOW HIU LAAM FELIX",,,"民主黨 / 民主動力","The Democratic Party / Power for Democracy",2611,"True","Pro-Democracy","Active",,,
+"R24-2","R24","駿馬","CHUN MA",2,"何偉樂","HO WAI LOK",,,"自由黨","Liberal Party",1211,"False",,,,,
+"R24-3","R24","駿馬","CHUN MA",3,"蕭顯航","SIU HIN HONG",,,,,1355,"False",,,,,
+"R25-1","R25","海嵐","HOI NAM",1,"俞卓君","YU NATASHA",,,,,1615,"False",,,,,
+"R25-2","R25","海嵐","HOI NAM",2,"陳珮明","CHAN PUI MING",,,"公民黨 ","Civic Party ",3019,"True","Pro-Democracy","Active",,,
+"R26-1","R26","頌安","CHUNG ON",1,"葉榮","YIP WING",,,,,4665,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R26-2","R26","頌安","CHUNG ON",2,"龔美姿","KUNG MEI CHI",,,,,2993,"False",,,,,
+"R27-1","R27","錦濤","KAM TO",1,"許立燊","HUI LAP SAN",,,,,3929,"True","Pro-Democracy","Active",,,
+"R27-2","R27","錦濤","KAM TO",2,"吳志雄","NG CHI HUNG",,,,,100,"False",,,,,
+"R27-3","R27","錦濤","KAM TO",3,"吳啟泰","NG KAI TAI",,,,,3867,"False",,,,,
+"R27-4","R27","錦濤","KAM TO",4,"陳天俊","CHAN TIN CHUN MIO",,,,,2023,"False",,,,,
+"R28-1","R28","馬鞍山市中心","MA ON SHAN TOWN CENTRE",1,"鍾禮謙","CHUNG LAI HIM",,,,,4744,"True","Pro-Democracy","Active",,,
+"R28-2","R28","馬鞍山市中心","MA ON SHAN TOWN CENTRE",2,"吳惠靈","NG WAI LING",,,,,37,"False",,,,,
+"R28-3","R28","馬鞍山市中心","MA ON SHAN TOWN CENTRE",3,"李啟雄","LEE KAI HUNG",,,,,99,"False",,,,,
+"R28-4","R28","馬鞍山市中心","MA ON SHAN TOWN CENTRE",4,"李子榮","LEE CHI WING ALVIN",,,,,2791,"False",,,,,
+"R28-5","R28","馬鞍山市中心","MA ON SHAN TOWN CENTRE",5,"邱文勁","YAU MAN KING",,,"獨立候選人","Independent Candidate",165,"False",,,,,
+"R29-1","R29","烏溪沙","WU KAI SHA",1,"蔡佳鏗","CHOI KAI HANG",,"ANDERSON",,,250,"False",,,,,
+"R29-2","R29","烏溪沙","WU KAI SHA",2,"吳卓璟","NG CHEUK KING",,,,,2469,"False",,,,,
+"R29-3","R29","烏溪沙","WU KAI SHA",3,"李永成","LI WING SHING",,,"獨立民主派 ","Independent Democrat ",4167,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R30-1","R30","利安","LEE ON",1,"麥潤培","MAK YUN PUI","麥仔","CHRIS",,,5343,"True","Pro-Democracy","Active",,,
+"R30-2","R30","利安","LEE ON",2,"李林昌","LI LAM CHEONG",,,,,2722,"False",,,,,
+"R30-3","R30","利安","LEE ON",3,"關宇峰","KWAN YU FUNG",,,,,78,"False",,,,,
+"R31-1","R31","富龍","FU LUNG",1,"廖子聰","LIU TSZ CHUNG MICHAEL",,,,,3441,"False",,,,,
+"R31-2","R31","富龍","FU LUNG",2,"曾素麗","TSANG SO LAI",,"YEN",,,5816,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R32-1","R32","錦英","KAM YING",1,"李健行","LEE KIN HANG",,,,,530,"False",,,,,
+"R32-2","R32","錦英","KAM YING",2,"蔡惠誠","CHOI WAI SHING",,,,,3401,"False",,,,,
+"R32-3","R32","錦英","KAM YING",3,"羅兆冲","LAW SIU CHUN","錦英阿四",,,,226,"False",,,,,
+"R32-4","R32","錦英","KAM YING",4,"丁仕元","TING TSZ YUEN",,,"沙田區政","COMMUNITY SHATIN",4775,"True","Pro-Democracy","Inactive","2021/5/31","辭職","Resign"
+"R33-1","R33","耀安","YIU ON",1,"李世榮","LI SAI WING",,,"民建聯、新社聯","DAB, NTAS",3727,"False",,,,,
+"R33-2","R33","耀安","YIU ON",2,"冼卓嵐","SIN CHEUK NAM",,,"民主黨","Democratic Party",5953,"True","Pro-Democracy","Active",,,
+"R34-1","R34","恆安","HENG ON",1,"鄭則文","CHENG TSUK MAN",,,,,6824,"True","Pro-Democracy","Active",,,
+"R34-2","R34","恆安","HENG ON",2,"方浩良","FANG HAO LIANG",,,"工聯會","FTU",3970,"False",,,,,
+"R35-1","R35","大水坑","TAI SHUI HANG",1,"容溟舟","YUNG MING CHAU MICHAEL",,,"公民黨","Civic Party",5157,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R35-2","R35","大水坑","TAI SHUI HANG",2,"朱煥釗","CHU WUN CHIU",,,,,3626,"False",,,,,
+"R36-1","R36","鞍泰","ON TAI",1,"招文亮","CHIU MAN LEONG",,,"民建聯","DAB",3163,"False",,,,,
+"R36-2","R36","鞍泰","ON TAI",2,"湯子霈","TONG CHI PUI LEROY",,,,,53,"False",,,,,
+"R36-3","R36","鞍泰","ON TAI",3,"鄭仲恒","CHENG CHUNG HANG",,,,,4419,"True","Pro-Democracy","Active",,,
+"R37-1","R37","愉欣","YU YAN",1,"姚嘉俊","YIU KA CHUN",,,,,3578,"False",,,,,
+"R37-2","R37","愉欣","YU YAN",2,"勞越洲","LO YUET CHAU",,,,,4691,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R38-1","R38","帝怡","DI YEE",1,"謝潔泳","TSE KIT WING",,,,,1666,"False",,,,,
+"R38-2","R38","帝怡","DI YEE",2,"林港坤","LAM KONG KWAN","博士","PHD","民建聯","DAB",1923,"True","Pro-Beijing","Active",,,
+"R38-3","R38","帝怡","DI YEE",3,"劉青","LIU QING",,,"民主黨","The Democratic Party",830,"False",,,,,
+"R39-1","R39","碧湖","BIK WOO",1,"陸梓峂","LUK TSZ TUNG",,,"公民黨","Civic Party",4280,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"R39-2","R39","碧湖","BIK WOO",2,"黃冰芬","WONG PING FAN",,,,,3457,"False",,,,,
+"R40-1","R40","廣康","KWONG HONG",1,"蔡振超","CHOI CHUN CHIU PAUL",,,,,401,"False",,,,,
+"R40-2","R40","廣康","KWONG HONG",2,"廖栢康","LIAO PAK HONG RICARDO",,,,,3333,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R40-3","R40","廣康","KWONG HONG",3,"王虎生","WONG FU SANG",,,,,2081,"False",,,,,
+"R41-1","R41","廣源","KWONG YUEN",1,"楊思健","YEUNG SZE KIN",,,,,3982,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"R41-2","R41","廣源","KWONG YUEN",2,"陳敏娟","CHAN MAN KUEN",,,,,2914,"False",,,,,
+"S01-1","S01","葵興","KWAI HING",1,"梁志成","LEUNG CHI SHING",,,"街坊工友服務處","Neighbood & Worker's Service Centre",3532,"True","Pro-Democracy","Active",,,
+"S01-2","S01","葵興","KWAI HING",2,"李偉樂","LEE WAI LOK",,,,,1408,"False",,,,,
+"S02-1","S02","葵聯","KWAI LUEN",1,"吳璧龍","WU PIK LUNG",,,,,34,"False",,,,,
+"S02-2","S02","葵聯","KWAI LUEN",2,"駱小鸞","LOK SIU LUEN",,,,,2296,"False",,,,,
+"S02-3","S02","葵聯","KWAI LUEN",3,"吳劍昇","NG KIM SING",,,"民主黨","DPHK",3102,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"S03-1","S03","葵盛東邨","KWAI SHING EAST ESTATE",1,"黎頌欣","LAI CHUNG YAN CHERRIE",,,,,59,"False",,,,,
+"S03-2","S03","葵盛東邨","KWAI SHING EAST ESTATE",2,"伍志華","NG CHI WAH",,,,,2912,"False",,,,,
+"S03-3","S03","葵盛東邨","KWAI SHING EAST ESTATE",3,"周偉雄","CHOW WAI HUNG RAYMAN",,,"民主動力","POWER FOR DEMOCRACY",4980,"True","Pro-Democracy","Inactive","2021/7/12","辭職","Resign"
+"S04-1","S04","上大窩口","UPPER TAI WO HAU",1,"陳安妮","CHAN ON NI",,,,,2332,"False",,,,,
+"S04-2","S04","上大窩口","UPPER TAI WO HAU",2,"許祺祥","HUI KEI CHEUNG",,,"民主黨","The Democratic Party",3118,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"S05-1","S05","下大窩口","LOWER TAI WO HAU",1,"黃炳權","WONG BING KUEN",,,"民主黨","The Democratic Party",4463,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"S05-2","S05","下大窩口","LOWER TAI WO HAU",2,"黃思鴻","HUANG SIHONG",,,,,1937,"False",,,,,
+"S06-1","S06","葵涌邨南","KWAI CHUNG ESTATE SOUTH",1,"張靜馨","CHEUNG CHING HING",,,,,102,"False",,,,,
+"S06-2","S06","葵涌邨南","KWAI CHUNG ESTATE SOUTH",2,"李宏峯","LEE WANG FUNG",,,,,3284,"False",,,,,
+"S06-3","S06","葵涌邨南","KWAI CHUNG ESTATE SOUTH",3,"黃潤達","WONG YUN TAT",,,"民主派區選聯盟 ","Democratic Coalition for DC Election ",4240,"True","Pro-Democracy","Inactive","2021/5/12","辭職","Resign"
+"S07-1","S07","葵涌邨北","KWAI CHUNG ESTATE NORTH",1,"郭三全","GUO SANQUAN",,,,,33,"False",,,,,
+"S07-2","S07","葵涌邨北","KWAI CHUNG ESTATE NORTH",2,"梁錦威","LEUNG KAM WAI",,,"民主派區選聯盟 ","Democratic Coalition for DC Election ",4396,"True","Pro-Democracy","Active",,,
+"S07-3","S07","葵涌邨北","KWAI CHUNG ESTATE NORTH",3,"梁崗銘","LEUNG KONG MING",,,,,3169,"False",,,,,
+"S08-1","S08","石蔭","SHEK YAM",1,"李世隆","LI SAI LUNG",,,"民建聯","DAB",3731,"False",,,,,
+"S08-2","S08","石蔭","SHEK YAM",2,"尹兆堅","WAN SIU KIN ANDREW",,,,,4891,"True","Pro-Democracy","Inactive","2021/5/10","還押","Custody"
+"S09-1","S09","大白田西","TAI PAK TIN WEST",1,"郭芙蓉","KWOK FU YUNG",,,,,2449,"True","Pro-Beijing","Active",,,
+"S09-2","S09","大白田西","TAI PAK TIN WEST",2,"司徒港燊","SZETO KONG SUN",,,,,2106,"False",,,,,
+"S09-3","S09","大白田西","TAI PAK TIN WEST",3,"何卓威","HO CHEUK WAI",,,,,544,"False",,,,,
+"S10-1","S10","大白田東","TAI PAK TIN EAST",1,"郭玲麗","KWOK LING LAI LILLIAN",,,,,2407,"False",,,,,
+"S10-2","S10","大白田東","TAI PAK TIN EAST",2,"劉貴梅","LAU KWAI MUI",,,"民主黨","Democratic Party",2902,"True","Pro-Democracy","Active",,,
+"S10-3","S10","大白田東","TAI PAK TIN EAST",3,"劉衍銘","LAU HIN MING",,,,,73,"False",,,,,
+"S11-1","S11","安蔭","ON YAM",1,"梁永權","LEUNG WING KUEN",,,,,3585,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
+"S11-2","S11","安蔭","ON YAM",2,"梁子穎","LEUNG TSZ WING DENNIS",,,"工聯會","FTU",3308,"False",,,,,
+"S12-1","S12","石籬北","SHEK LEI NORTH",1,"袁潤洪","YUEN YUN HUNG",,,"民建聯","With Chinese version only",2086,"False",,,,,
+"S12-2","S12","石籬北","SHEK LEI NORTH",2,"林紹輝","LAM SIU FAI",,,"民主黨","Democratic Party",3456,"True","Pro-Democracy","Active",,,
+"S13-1","S13","石籬南","SHEK LEI SOUTH",1,"梁國華","LEUNG KWOK WAH",,,,,4780,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"S13-2","S13","石籬南","SHEK LEI SOUTH",2,"吳家超","NG KA CHIU",,,,,3331,"False",,,,,
+"S14-1","S14","葵芳","KWAI FONG",1,"梁耀忠","LEUNG YIU CHUNG",,,,,4766,"True","Pro-Democracy","Inactive",,"緩刑","Suspended Sentence"
+"S14-2","S14","葵芳","KWAI FONG",2,"林映惠","LAM YING WAI",,,"民建聯","With Chinese version only",2997,"False",,,,,
+"S14-3","S14","葵芳","KWAI FONG",3,"曾子麟","TSANG TSZ LUN",,,,,301,"False",,,,,
+"S15-1","S15","興芳","HING FONG",1,"王翰智","WONG HON CHI",,,,,26,"False",,,,,
+"S15-2","S15","興芳","HING FONG",2,"鄧麗玲","TANG LAI LING",,,,,2177,"False",,,,,
+"S15-3","S15","興芳","HING FONG",3,"唐皓文","TONG HO MAN",,,"民主黨","DPHK",3101,"True","Pro-Democracy","Active",,,
+"S16-1","S16","華麗","WAH LAI",1,"黃耀聰","WONG YIU CHUNG",,,"經民聯 ","BPA",2998,"False",,,,,
+"S16-2","S16","華麗","WAH LAI",2,"單仲偕","SIN CHUNG KAI",,,"民主黨","The Democratic Party",3469,"True","Pro-Democracy","Inactive",,"緩刑","Suspended Sentence"
+"S16-3","S16","華麗","WAH LAI",3,"戴沛珊","TAI PUI SHAN CHRISTABEL DONNA",,,"從未加入任何政黨","never joined political party",17,"False",,,,,
+"S16-4","S16","華麗","WAH LAI",4,"譚荏之","TAM YAM CHI",,,,,152,"False",,,,,
+"S16-5","S16","華麗","WAH LAI",5,"阮國基","YUEN KWOK KI",,,"無黨派","Non-affiliated",44,"False",,,,,
+"S17-1","S17","荔華","LAI WAH",1,"朱麗玲","CHU LAI LING",,,,,2818,"False",,,,,
+"S17-2","S17","荔華","LAI WAH",2,"張鈞翹","CHEUNG KWAN KIU STEVE",,,"公民黨","Civic Party",3613,"True","Pro-Democracy","Inactive","2021/7/7","辭職","Resign"
+"S18-1","S18","祖堯","CHO YIU",1,"鮑銘康","PAU MING HONG",,,,,3107,"False",,,,,
+"S18-2","S18","祖堯","CHO YIU",2,"蔡雅文","CHOI NGA MAN",,,,,3297,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"S19-1","S19","荔景","LAI KING",1,"王天仁","WONG TIN YAN",,,,,2836,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"S19-2","S19","荔景","LAI KING",2,"周奕希","CHOW YICK HAY",,,"無黨派","Non-affiliated Candidate",2670,"False",,,,,
+"S20-1","S20","葵盛西邨","KWAI SHING WEST ESTATE",1,"梁靜珊","LEUNG CHING SHAN",,,"街坊工友服務處","Neighbourhood & Worker's Service Centre",4365,"True","Pro-Democracy","Active",,,
+"S20-2","S20","葵盛西邨","KWAI SHING WEST ESTATE",2,"劉美璐","LAU MEI LO",,,"工聯會","FTU",3273,"False",,,,,
+"S21-1","S21","安灝","ON HO",1,"譚惠珍","TAM WAI CHUN",,,,,3620,"False",,,,,
+"S21-2","S21","安灝","ON HO",2,"譚家浚","TAM KA CHUN WARREN",,,"公民黨","Civic Party ",5642,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"S21-3","S21","安灝","ON HO",3,"吳家輝","NG KA FAI",,,,,59,"False",,,,,
+"S21-4","S21","安灝","ON HO",4,"蘇智誠","SO CHI SHING",,,,,151,"False",,,,,
+"S22-1","S22","偉盈","WAI YING",1,"麥美娟","MAK MEI KUEN ALICE",,,"工聯會","FTU",3480,"False",,,,,
+"S22-2","S22","偉盈","WAI YING",2,"冼豪輝","SIN HO FAI",,,"公民黨 ","CIVIC PARTY",5194,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"S23-1","S23","青衣邨","TSING YI ESTATE",1,"陳笑文","CHAN SIU MAN SIMON",,,,,3194,"False",,,,,
+"S23-2","S23","青衣邨","TSING YI ESTATE",2,"王必敏","WONG PIT MAN",,,,,4727,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"S24-1","S24","翠怡","GREENFIELD",1,"黃俊達","WONG CHUN TAT",,,"獨立無黨派","Independent",4274,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"S24-2","S24","翠怡","GREENFIELD",2,"譚世華","TAM SAI WAH PHILIP",,,"獨立","Independent",1501,"False",,,,,
+"S24-3","S24","翠怡","GREENFIELD",3,"張慧晶","CHEUNG WAI CHING CLARICE",,,"獨立","Independent",2363,"False",,,,,
+"S25-1","S25","長青","CHEUNG CHING",1,"李志強","LEE CHI KEUNG ALAN",,,"香港經濟民生聯盟","BPA",3372,"False",,,,,
+"S25-2","S25","長青","CHEUNG CHING",2,"韓俊賢","HON CHUN YIN",,,,,4575,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"S26-1","S26","長康","CHEUNG HONG",1,"王振霖","WONG CHUN LAM","霖仔",,,,2949,"False",,,,,
+"S26-2","S26","長康","CHEUNG HONG",2,"徐曉杰","TSUI HIU KIT",,,"實政圓桌","Roundtable",3427,"True","Pro-Beijing","Active",,,
+"S27-1","S27","盛康","SHING HONG",1,"梁嘉銘","LEUNG KAR MING",,,,,3531,"True","Pro-Beijing","Active",,,
+"S27-2","S27","盛康","SHING HONG",2,"趙寶琴","CHIU PO KAM LUCIA",,,"民 主 動 力","Power of Democracy",3417,"False",,,,,
+"S28-1","S28","青衣南","TSING YI SOUTH",1,"郭子健","KWOK TSZ KIN",,,"民主動力","Power for Democracy",4662,"True","Pro-Democracy","Active",,,
+"S28-2","S28","青衣南","TSING YI SOUTH",2,"潘志成","POON CHI SHING",,,,,3899,"False",,,,,
+"S29-1","S29","長亨","CHEUNG HANG",1,"盧婉婷","LO YUEN TING",,,,,3759,"True","Pro-Beijing","Active",,,
+"S29-2","S29","長亨","CHEUNG HANG",2,"嚴浩源","YIM HO YUEN",,,"熱血公民","CIVIC PASSION",3270,"False",,,,,
+"S30-1","S30","青發","CHING FAT",1,"林翠玲","LAM CHUI LING NANCY",,,"獨立候選人","Independent Candidate",3468,"False",,,,,
+"S30-2","S30","青發","CHING FAT",2,"何穎智","HO WING CHI",,,,,29,"False",,,,,
+"S30-3","S30","青發","CHING FAT",3,"王佩珊","WONG PUI SHAN",,,"獨立候選人","Independent ",271,"False",,,,,
+"S30-4","S30","青發","CHING FAT",4,"劉子傑","LAU CHI KIT",,,,,5061,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"S30-5","S30","青發","CHING FAT",5,"周漢森","CHAU HON SUM",,,"獨立候選人","Independent Candidate",120,"False",,,,,
+"S31-1","S31","長安","CHEUNG ON",1,"張文龍","CHEUNG MAN LUNG",,,,,3711,"True","Pro-Democracy","Inactive","2021/7/20","辭職","Resign"
+"S31-2","S31","長安","CHEUNG ON",2,"唐亦駿","TONG YIK CHUN",,,"獨立候選人","Independent",289,"False",,,,,
+"S31-3","S31","長安","CHEUNG ON",3,"羅競成","LAW KING SHING",,,,,2983,"False",,,,,
+"T01-1","T01","大嶼山","LANTAU",1,"余漢坤","YU HON KWAN",,"RANDY",,,2873,"True","Pro-Beijing","Active",,,
+"T01-2","T01","大嶼山","LANTAU",2,"何恩清","HO YAN CHING",,,,,21,"False",,,,,
+"T01-3","T01","大嶼山","LANTAU",3,"馮小燕","FUNG SIU YIN","大嶼小燕","LANTAU SIU YIN","民主動力","Power for Democracy",2633,"False",,,,,
+"T02-1","T02","滿逸","MUN YAT",1,"王俊傑","WONG CHUN KIT",,,,,2872,"False",,,,,
+"T02-2","T02","滿逸","MUN YAT",2,"郭平","KWOK PING",,,,,5997,"True","Pro-Democracy","Active",,,
+"T03-1","T03","逸東邨北","YAT TUNG ESTATE NORTH",1,"方龍飛","FONG LUNG FEI",,,,,5376,"True","Pro-Democracy","Active",,,
+"T03-2","T03","逸東邨北","YAT TUNG ESTATE NORTH",2,"劉展鵬","LAU CHIN PANG",,,,,3323,"False",,,,,
+"T04-1","T04","東涌南","TUNG CHUNG SOUTH",1,"周浩鼎","CHOW HO DING HOLDEN",,,"民建聯","DAB",3619,"False",,,,,
+"T04-2","T04","東涌南","TUNG CHUNG SOUTH",2,"黎永安","LAI WING ON",,"ANDY",,,183,"False",,,,,
+"T04-3","T04","東涌南","TUNG CHUNG SOUTH",3,"王進洋","WONG CHUN YEUNG","呀洋","SHEEP",,,5049,"True","Pro-Democracy","Active",,,
+"T04-4","T04","東涌南","TUNG CHUNG SOUTH",4,"劉永賢","LAU WING YIN",,,,,87,"False",,,,,
+"T05-1","T05","東涌中","TUNG CHUNG CENTRAL",1,"李嘉豪","LEE KA HO",,,"公民黨、民主動力","Civic Party, Power for Democracy",2708,"True","Pro-Democracy","Inactive","2021/7/8","辭職","Resign"
+"T05-2","T05","東涌中","TUNG CHUNG CENTRAL",2,"傅曉琳","FU HIU LAM SAMMI",,,,,2359,"False",,,,,
+"T06-1","T06","東涌北","TUNG CHUNG NORTH",1,"徐生雄","TSUI SANG HUNG SAMMY",,,,,1332,"True","Pro-Democracy","Active",,,
+"T06-2","T06","東涌北","TUNG CHUNG NORTH",2,"潘俊恩","POON CHUN YAN",,,,,990,"False",,,,,
+"T06-3","T06","東涌北","TUNG CHUNG NORTH",3,"葉培基","YIP PUI KEI",,,"民建聯","DAB",1045,"False",,,,,
+"T07-1","T07","愉景灣","DISCOVERY BAY",1,"容詠嫦","YUNG WING SHEUNG AMY",,"AMY YUNG",,,2072,"True","Pro-Democracy","Inactive","2021/7/9","辭職","Resign"
+"T07-2","T07","愉景灣","DISCOVERY BAY",2,"周元谷","CHOW YUEN KUK JONATHAN",,,,,1132,"False",,,,,
+"T08-1","T08","坪洲及喜靈洲","PENG CHAU & HEI LING CHAU",1,"徐逸朗","TSUI YAT LONG",,,,,1093,"False",,,,,
+"T08-2","T08","坪洲及喜靈洲","PENG CHAU & HEI LING CHAU",2,"曾秀好","TSANG SAU HO JOSEPHINE","好姐","HO TSE",,,1499,"True","Pro-Beijing","Active",,,
+"T09-1","T09","南丫及蒲台","LAMMA & PO TOI",1,"劉舜婷","LAU SHUN TING",,,,,1003,"True","Pro-Beijing","Active",,,
+"T09-2","T09","南丫及蒲台","LAMMA & PO TOI",2,"崔靖青","CHUI CAAN JING CHING",,,"民主動力","Power for Democracy",972,"False",,,,,
+"T10-1","T10","長洲","CHEUNG CHAU",1,"郭慧文","KWOK WAI MAN MEALOHA",,,,,3233,"False",,,,,
+"T10-2","T10","長洲","CHEUNG CHAU",2,"梁國豪","LEUNG KWOK HO",,,,,5142,"True","Pro-Democracy","Inactive","2021/7/10","辭職","Resign"
