@@ -3,7 +3,9 @@ Hong Kong District Council 2019 data and an open source web scraper project.
 
 The project includes a web scraper to consolidate the data of Hong Kong District Council 2019 to a single CSV file from several files.
 
-## Statistics from Reference Websites and Sample Data
+## Statistics figures from Reference Websites and Sample Data
+
+The following statistics figures are for reference only, as of 2021/7/22.
 
 |Item|Count|Percentage|Remarks|
 |-|-:|-:|-|
@@ -17,10 +19,26 @@ The project includes a web scraper to consolidate the data of Hong Kong District
 |No. of votes represented by active pro-Beijing DC members|171,737|26.58%|% of (c)|
 |No. of votes represented by active pro-Democracy DC members|474,419|73.42%|% of (c)|
 |No. of votes represented by active pro-Democracy DC members|474,419|31.49%|% of (b)|
+|No. of total DC members (e)|479|||
+|No. of ex officio DC members (non-DC election)(f)|27|5.64%|% of (e)|
+|No. of total elected DC members (g)|452|94.36%|% of (e)|
+|No. of elected pro-Democracy DC members|390|86.28%|% of (g)|
+|No. of elected pro-Beijing DC members|62|13.72%|% of (g)||
+|No. of active DC members (h)|187|41.37%|% of (g)|
+|No. of inactive DC members (i)|265|58.63%|% of (g)|
+|No. of active pro-Democracy DC members|125|66.84%|% of (h)|
+|No. of active pro-Beijing DC members|62|33.16%|% of (h)|
+|No. of inactive DC members (Custody)|11|4.15%|% of (i)|
+|No. of inactive DC members (Disqualification)|2|0.75%|% of (i)|
+|No. of inactive DC members (Exile)|2|0.75%|% of (i)|
+|No. of inactive DC members (Jail)|1|0.38%|% of (i)|
+|No. of inactive DC members (Not Duly Elected)|2|0.75%|% of (i)|
+|No. of inactive DC members (Resigned)|245|92.45%|% of (i)|
+|No. of inactive DC members (Suspended Sentence)|2|0.75%|% of (i)|
 
-Above statistics are for reference only, as of 2021/7/22.
-
-Note (d): All inactive DC members are also from pro-Democracy camp.
+* Most of DC members in above items are elected members in District Council, unless it specify others. 27 ex officio DC members are not counted in most of above items.
+* For Note (d), all inactive DC members are also from pro-Democracy camp.
+* For Note (f), all ex officio DC members are from pro-Beijing camp.
 
 ## Sample Data
 
