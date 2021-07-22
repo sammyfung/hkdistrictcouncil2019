@@ -24,11 +24,10 @@ Note (d): All inactive DC members are also from pro-Democracy camp.
 
 ## Sample Data
 
-[Hong Kong District Council 2019 Election Data](https://github.com/sammyfung/hkdistrictcouncil2019/blob/main/sample-data/hkdistrictcouncil2019-election-sorted.csv)
+* [Hong Kong District Council 2019 Election (Basic) Data](https://github.com/sammyfung/hkdistrictcouncil2019/blob/main/sample-data/hkdistrictcouncil2019-election-sorted.csv) including district name & code, candidate/member name, candidate no., alias, affiliation, no. of votes, win/not win.
+* [Hong Kong District Council 2019 Election Data with Advanced Data](https://github.com/sammyfung/hkdistrictcouncil2019/blob/main/sample-data/hkdistrictcouncil2019-election-sorted-advance.csv) from [Wikipedia](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%8D%80%E8%AD%B0%E6%9C%83) and etc, including all data from basic data file and additionally including active/Inactive member, political camps, status of inactive members, date of registration.
 
-[Hong Kong District Council 2019 Election Data with Advanced Data](https://github.com/sammyfung/hkdistrictcouncil2019/blob/main/sample-data/hkdistrictcouncil2019-election-sorted-advance.csv) from [Wikipedia](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%8D%80%E8%AD%B0%E6%9C%83) and etc.
-
-Above sample data are for reference only, as of 2021/7/22.
+Above sample data are for reference only, as of 2021/7/22, please contribute if any data update or correction.
 
 ## Contribute
 
