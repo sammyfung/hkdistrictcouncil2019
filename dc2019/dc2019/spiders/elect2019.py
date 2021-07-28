@@ -109,12 +109,20 @@ class Elect2019Spider(scrapy.Spider):
 
 
     def parse_candidate(self, response):
+        if re.search('_CHN.html$', response.url):
+            lang = 'CHI'
+        else:
+            lang = 'ENG'
         candidate_code = re.sub('.*/', '', response.url)
         candidate_code = re.sub('_(CHN|ENG)\.html', '', candidate_code)
         candidate_code = re.sub('_', '-', candidate_code)
-        self.db[candidate_code]['age'] = int(response.xpath('//div/p[3]/span[2]/text()').extract()[0])
+        age = response.xpath('//div/p[3]/span[2]/text()').extract()[0]
+        try:
+            self.db[candidate_code]['age'] = int(age)
+        except:
+            self.db[candidate_code]['age'] = ''
         affiliation = response.xpath('//div/p[5]/span[2]/text()').extract()[0]
-        if re.search('_CHN.html$', response.url):
+        if lang == 'CHI':
             if re.search('候選人並未提供有關資料', affiliation):
                 self.db[candidate_code]['affiliation_c'] = affiliation
             else:
@@ -124,7 +132,6 @@ class Elect2019Spider(scrapy.Spider):
                 self.db[candidate_code]['affiliation_e'] = affiliation
             else:
                 self.db[candidate_code]['affiliation_e'] = ''
-
         try:
             item = Dc2019Item()
             item['candidate_code'] = self.db[candidate_code]['candidate_code']

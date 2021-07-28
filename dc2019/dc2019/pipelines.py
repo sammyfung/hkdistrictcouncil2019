@@ -13,3 +13,4 @@ class Dc2019Pipeline:
         else:
             self.ids_seen.add(adapter['candidate_code'])
             return item
+        #return item
