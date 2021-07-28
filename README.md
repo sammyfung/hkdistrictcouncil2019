@@ -57,5 +57,5 @@ Please sponsor my open source projects via [GitHub Sponsor](https://github.com/s
 
 ## LICENSE
 
-Apache License 2.0 excluding the sample data.
+Apache License 2.0 excluding the sample data. Sample data comes from HKG website and Wikipedia.
 
