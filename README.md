@@ -14,26 +14,26 @@ The following statistics figures are for reference only, as of 2021/7/22.
 |No. of valid votes to elected DC members (a)|1,678,119|||
 |No. of valid votes to pro-Beijing DC members|171,737|10.23%|% of (a)|
 |No. of valid votes to pro-Democracy DC members (b)|1,506,382|89.77%|% of (a)|
-|No. of votes represented by active DC members (c)|646,156|38.50%|% of (a)|
-|No. of votes represented by inactive DC members (d)|1,031,963|61.50%|% of (a)|
+|No. of votes represented by active DC members (c)|636,161|37.91%|% of (a)|
+|No. of votes represented by inactive DC members (d)|1,041,958|62.09%|% of (a)|
 |No. of votes represented by active pro-Beijing DC members|171,737|26.58%|% of (c)|
-|No. of votes represented by active pro-Democracy DC members|474,419|73.42%|% of (c)|
-|No. of votes represented by active pro-Democracy DC members|474,419|31.49%|% of (b)|
+|No. of votes represented by active pro-Democracy DC members|464,424|73.00%|% of (c)|
+|No. of votes represented by active pro-Democracy DC members|464,424|30.83%|% of (b)|
 |No. of total DC members (e)|479|||
 |No. of ex officio DC members (non-DC election)(f)|27|5.64%|% of (e)|
 |No. of total elected DC members (g)|452|94.36%|% of (e)|
 |No. of elected pro-Democracy DC members|390|86.28%|% of (g)|
 |No. of elected pro-Beijing DC members|62|13.72%|% of (g)||
-|No. of active DC members (h)|185|41.37%|% of (g)|
-|No. of inactive DC members (i)|267|58.63%|% of (g)|
-|No. of active pro-Democracy DC members|123|66.84%|% of (h)|
-|No. of active pro-Beijing DC members|62|33.16%|% of (h)|
-|No. of inactive DC members (Custody)|11|4.15%|% of (i)|
+|No. of active DC members (h)|185|40.93%|% of (g)|
+|No. of inactive DC members (i)|267|59.07%|% of (g)|
+|No. of active pro-Democracy DC members|123|66.49%|% of (h)|
+|No. of active pro-Beijing DC members|62|33.51%|% of (h)|
+|No. of inactive DC members (Custody)|11|4.12%|% of (i)|
 |No. of inactive DC members (Disqualification)|2|0.75%|% of (i)|
 |No. of inactive DC members (Exile)|2|0.75%|% of (i)|
-|No. of inactive DC members (Jail)|1|0.38%|% of (i)|
+|No. of inactive DC members (Jail)|1|0.37%|% of (i)|
 |No. of inactive DC members (Not Duly Elected)|2|0.75%|% of (i)|
-|No. of inactive DC members (Resigned)|247|92.45%|% of (i)|
+|No. of inactive DC members (Resigned)|247|92.51%|% of (i)|
 |No. of inactive DC members (Suspended Sentence)|2|0.75%|% of (i)|
 
 * Most of DC members in above items are elected members in District Council, unless it specify others. 27 ex officio DC members are not counted in most of above items.
